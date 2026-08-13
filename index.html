@@ -7,7 +7,7 @@
 <meta name="description" content="Knoxline Systems builds the systems behind home-service businesses — websites, Google Ads, automated reporting, payroll automation, and CRM integration. Project builds or monthly retainers, across the Southeast.">
 <link rel="canonical" href="https://www.knoxlinesystems.com/">
 <meta property="og:title" content="Knoxline Systems | Websites, Google Ads & Automation for Home-Service Businesses">
-<meta property="og:description" content="Websites, Google Ads, automated reporting, payroll automation, and CRM integration for home-service businesses. Project builds or monthly retainers.">
+<meta property="og:description" content="Knoxline Systems builds the systems behind home-service businesses — websites, Google Ads, automated reporting, payroll automation, and CRM integration. Project builds or monthly retainers, across the Southeast.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.knoxlinesystems.com/">
 <meta property="og:image" content="https://www.knoxlinesystems.com/assets/og-image.png">
@@ -26,6 +26,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,500;10..72,600;10..72,700&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -69,279 +70,6 @@
   ]
 }
 </script>
-<style>
-:root{
-  --ink:#10263F;          /* drafting blue ground */
-  --panel:#0B1D32;        /* deeper panel */
-  --line:#2C4C72;         /* blueprint linework */
-  --line-faint:#1C3653;   /* grid hairlines */
-  --paper:#EAF1F8;        /* drafting white */
-  --slate:#9AB0C8;        /* secondary text */
-  --orange:#EE722F;       /* Knoxline redline */
-  --orange-dim:#C85A20;
-  --display:"Big Shoulders", sans-serif;
-  --body:"Public Sans", sans-serif;
-  --mono:"IBM Plex Mono", monospace;
-}
-*{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{
-  background:var(--ink);
-  color:var(--paper);
-  font-family:var(--body);
-  font-size:16.5px;
-  line-height:1.65;
-  -webkit-font-smoothing:antialiased;
-}
-::selection{background:var(--orange);color:var(--ink)}
-img,svg{max-width:100%;display:block}
-a{color:inherit}
-.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
-.grid-bg{
-  background-image:
-    linear-gradient(var(--line-faint) 1px, transparent 1px),
-    linear-gradient(90deg, var(--line-faint) 1px, transparent 1px);
-  background-size:56px 56px;
-}
-.eyebrow{
-  font-family:var(--mono);
-  font-size:.72rem;
-  letter-spacing:.14em;
-  text-transform:uppercase;
-  color:var(--orange);
-  display:flex;align-items:center;gap:.6rem;
-}
-.eyebrow::before{content:"";width:26px;height:1px;background:var(--orange);display:inline-block}
-h1,h2,h3{font-family:var(--display);text-transform:uppercase;line-height:.95;letter-spacing:.01em}
-h1{font-size:clamp(2.9rem,7vw,5.4rem);font-weight:700}
-h2{font-size:clamp(2rem,4.5vw,3.2rem);font-weight:600;margin:.6rem 0 1rem}
-h3{font-size:1.35rem;font-weight:600;letter-spacing:.03em}
-p.lede{font-size:1.12rem;color:var(--slate);max-width:56ch}
-
-/* Nav */
-header{
-  position:sticky;top:0;z-index:50;
-  background:rgba(11,29,50,.92);
-  backdrop-filter:blur(8px);
-  border-bottom:1px solid var(--line-faint);
-}
-.nav{display:flex;align-items:center;justify-content:space-between;height:64px}
-.logo{font-family:var(--display);font-weight:700;font-size:1.35rem;text-transform:uppercase;letter-spacing:.04em;text-decoration:none}
-.logo span{color:var(--orange)}
-.nav-links{display:flex;gap:1.8rem;align-items:center;list-style:none}
-.nav-links a{
-  text-decoration:none;font-family:var(--mono);font-size:.78rem;
-  letter-spacing:.1em;text-transform:uppercase;color:var(--slate);
-  transition:color .15s;
-}
-.nav-links a:hover,.nav-links a:focus-visible{color:var(--paper)}
-.btn{
-  display:inline-block;font-family:var(--mono);font-size:.8rem;
-  letter-spacing:.1em;text-transform:uppercase;text-decoration:none;
-  padding:.85rem 1.5rem;border:1px solid var(--orange);
-  color:var(--orange);transition:background .15s,color .15s;
-}
-.btn:hover,.btn:focus-visible{background:var(--orange);color:var(--ink)}
-.btn.solid{background:var(--orange);color:var(--ink)}
-.btn.solid:hover,.btn.solid:focus-visible{background:var(--orange-dim);border-color:var(--orange-dim)}
-:focus-visible{outline:2px solid var(--orange);outline-offset:3px}
-.nav .btn{padding:.55rem 1.1rem}
-.menu-toggle{display:none;background:none;border:1px solid var(--line);color:var(--paper);font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;padding:.5rem .8rem;text-transform:uppercase;cursor:pointer}
-
-/* Hero */
-.hero{padding:84px 0 72px;border-bottom:1px solid var(--line-faint);position:relative;overflow:hidden}
-.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:3.5rem;align-items:center}
-.hero h1 .accent{color:var(--orange)}
-.hero .lede{margin:1.4rem 0 2rem}
-.hero-ctas{display:flex;gap:1rem;flex-wrap:wrap}
-.hero-meta{margin-top:2.6rem;display:flex;gap:2.2rem;flex-wrap:wrap}
-.hero-meta div{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate)}
-.hero-meta strong{display:block;color:var(--paper);font-size:.95rem;margin-bottom:.2rem}
-
-/* Schematic */
-.schematic{border:1px solid var(--line);background:var(--panel);padding:14px;position:relative}
-.schematic .plate{
-  display:flex;justify-content:space-between;align-items:center;
-  font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;
-  text-transform:uppercase;color:var(--slate);
-  border-bottom:1px solid var(--line-faint);padding-bottom:10px;margin-bottom:6px;
-}
-.schematic .plate b{color:var(--orange);font-weight:500}
-@keyframes flow{to{stroke-dashoffset:-24}}
-.flow-line{stroke-dasharray:6 6;animation:flow 1.6s linear infinite}
-/* ===== Motion & photo treatment ===== */
-
-/* Hero entrance (JS-gated via .js on <html>) */
-.js .hero .rise{opacity:0;transform:translateY(18px);animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
-.js .hero .rise:nth-child(1){animation-delay:.05s}
-.js .hero .rise:nth-child(2){animation-delay:.15s}
-.js .hero .rise:nth-child(3){animation-delay:.25s}
-.js .hero .rise:nth-child(4){animation-delay:.35s}
-.js .hero .rise:nth-child(5){animation-delay:.45s}
-@keyframes rise{to{opacity:1;transform:none}}
-
-/* Schematic draw-on */
-.js .schematic .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.1s ease forwards}
-.js .schematic .draw.d2{animation-delay:.35s}
-.js .schematic .draw.d3{animation-delay:.7s}
-@keyframes draw{to{stroke-dashoffset:0}}
-.js .schematic text{opacity:0;animation:fadein .5s ease forwards;animation-delay:.9s}
-@keyframes fadein{to{opacity:1}}
-
-/* Scroll reveals */
-.js .reveal{opacity:0;transform:translateY(22px);transition:opacity .6s ease,transform .6s cubic-bezier(.2,.7,.2,1)}
-.js .reveal.in{opacity:1;transform:none}
-
-/* Sheet hover lift */
-.sheet{transition:background .15s,transform .2s ease}
-.sheet:hover{transform:translateY(-3px)}
-
-/* Marquee strip */
-.strip{overflow:hidden}
-.strip .track{display:flex;gap:3.5rem;width:max-content;animation:marquee 32s linear infinite}
-.strip:hover .track{animation-play-state:paused}
-.strip span{white-space:nowrap}
-@keyframes marquee{to{transform:translateX(-50%)}}
-
-/* Proof shots */
-.shot{border:1px solid var(--line);background:var(--panel);padding:12px}
-.shot .plate{
-  display:flex;justify-content:space-between;align-items:center;gap:1rem;
-  font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;
-  text-transform:uppercase;color:var(--slate);
-  border-bottom:1px solid var(--line-faint);padding-bottom:10px;margin-bottom:12px;
-}
-.shot .plate b{color:var(--orange);font-weight:500;white-space:nowrap}
-.shot img{width:100%;border:1px solid var(--line-faint)}
-.shot .note{font-family:var(--mono);font-size:.6rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate);margin-top:10px}
-.case .who a{color:inherit;text-decoration:none;border-bottom:1px solid var(--orange)}
-.case .who a:hover{color:var(--orange)}
-
-/* Photo plate */
-.photo-plate{position:relative;border:1px solid var(--line);background:var(--panel);padding:12px;max-width:340px}
-.photo-plate .frame{position:relative;overflow:hidden}
-.photo-plate img{width:100%;filter:grayscale(1) contrast(1.08) brightness(.96)}
-.photo-plate .frame::after{
-  content:"";position:absolute;inset:0;
-  background:var(--ink);mix-blend-mode:color;
-}
-.photo-plate .frame::before{
-  content:"";position:absolute;inset:0;z-index:1;
-  background:linear-gradient(180deg,transparent 70%,rgba(238,114,47,.14));
-}
-.photo-plate .caption{
-  display:flex;justify-content:space-between;margin-top:10px;
-  font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;
-  text-transform:uppercase;color:var(--slate);
-}
-.photo-plate .caption b{color:var(--orange);font-weight:500}
-.photo-plate .tick{position:absolute;width:14px;height:14px;border-color:var(--orange);border-style:solid;z-index:2}
-.photo-plate .tick.tl{top:6px;left:6px;border-width:2px 0 0 2px}
-.photo-plate .tick.tr{top:6px;right:6px;border-width:2px 2px 0 0}
-.photo-plate .tick.bl{bottom:34px;left:6px;border-width:0 0 2px 2px}
-.photo-plate .tick.br{bottom:34px;right:6px;border-width:0 2px 2px 0}
-.about-photo-col{display:flex;flex-direction:column;gap:1.6rem}
-
-@media (prefers-reduced-motion: reduce){
-  .flow-line{animation:none}
-  html{scroll-behavior:auto}
-  .js .hero .rise,.js .schematic .draw,.js .schematic text{animation:none;opacity:1;transform:none;stroke-dashoffset:0}
-  .js .reveal{opacity:1;transform:none;transition:none}
-  .strip .track{animation:none;flex-wrap:wrap;width:auto}
-  .sheet:hover{transform:none}
-}
-
-/* Sections */
-section{padding:84px 0}
-.section-head{max-width:640px;margin-bottom:3rem}
-
-/* Client strip */
-.strip{border-bottom:1px solid var(--line-faint);padding:22px 0;background:var(--panel)}
-.strip span{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--slate)}
-.strip span b{color:var(--paper);font-weight:500}
-
-/* Services — drawing set */
-.sheet-list{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line-faint);border:1px solid var(--line-faint)}
-.sheet{background:var(--ink);padding:2rem;position:relative;transition:background .15s}
-.sheet:hover{background:var(--panel)}
-.sheet .code{font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;color:var(--orange);text-transform:uppercase}
-.sheet h3{margin:.7rem 0 .6rem}
-.sheet p{color:var(--slate);font-size:.95rem}
-.sheet ul{list-style:none;margin-top:.9rem}
-.sheet li{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--slate);padding:.28rem 0;border-top:1px dashed var(--line-faint)}
-.sheet li::before{content:"— ";color:var(--orange)}
-
-/* Case studies */
-.cases{background:var(--panel);border-top:1px solid var(--line-faint);border-bottom:1px solid var(--line-faint)}
-.case{
-  display:grid;grid-template-columns:220px 1fr 300px;gap:2.5rem;
-  padding:2.2rem 0;border-top:1px solid var(--line-faint);
-}
-.case:last-of-type{border-bottom:1px solid var(--line-faint)}
-.case .who b{font-family:var(--display);font-size:1.3rem;text-transform:uppercase;font-weight:600;display:block;line-height:1.05}
-.case .who span{font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate);display:block;margin-top:.5rem}
-.case .what{color:var(--slate);font-size:.97rem}
-.case .result{border-left:2px solid var(--orange);padding-left:1.1rem}
-.case .result .label{font-family:var(--mono);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--orange)}
-.case .result p{font-size:.95rem;margin-top:.4rem}
-
-/* Engagement */
-.doors{display:grid;grid-template-columns:1fr 1fr;gap:1.6rem}
-.door{border:1px solid var(--line);padding:2.4rem;background:var(--panel);display:flex;flex-direction:column}
-.door.featured{border-color:var(--orange)}
-.door .tag{font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--orange)}
-.door h3{margin:.8rem 0 .4rem;font-size:1.7rem}
-.door .price{font-family:var(--mono);font-size:.85rem;color:var(--slate);margin-bottom:1rem}
-.door p{color:var(--slate);font-size:.96rem}
-.door ul{list-style:none;margin:1.2rem 0 1.8rem}
-.door li{padding:.4rem 0;border-top:1px dashed var(--line-faint);font-size:.92rem;color:var(--paper)}
-.door li::before{content:"+ ";color:var(--orange);font-family:var(--mono)}
-.door .btn{margin-top:auto;text-align:center}
-
-/* About */
-.about-grid{display:grid;grid-template-columns:1fr 1fr;gap:3.5rem;align-items:start}
-.about-grid .facts{border:1px solid var(--line);background:var(--panel);padding:1.8rem}
-.about-grid .facts div{padding:.8rem 0;border-top:1px dashed var(--line-faint)}
-.about-grid .facts div:first-child{border-top:none;padding-top:0}
-.about-grid .facts .k{font-family:var(--mono);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--orange)}
-.about-grid .facts .v{font-size:.95rem;margin-top:.15rem}
-.about-copy p{color:var(--slate);margin-bottom:1rem}
-.about-copy p b{color:var(--paper);font-weight:600}
-
-/* Contact */
-.contact{background:var(--panel);border-top:1px solid var(--line-faint)}
-.contact-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:3rem;align-items:center}
-.contact .big-mail{
-  font-family:var(--display);text-transform:uppercase;font-weight:600;
-  font-size:clamp(1.4rem,3.4vw,2.4rem);text-decoration:none;color:var(--orange);
-  word-break:break-all;
-}
-.contact .big-mail:hover{text-decoration:underline}
-.contact .lines div{font-family:var(--mono);font-size:.8rem;letter-spacing:.06em;color:var(--slate);padding:.55rem 0;border-top:1px dashed var(--line-faint)}
-.contact .lines a{color:var(--paper);text-decoration:none}
-.contact .lines a:hover{color:var(--orange)}
-
-/* Footer */
-footer{padding:2rem 0;border-top:1px solid var(--line-faint)}
-footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem}
-footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate)}
-
-@media(max-width:900px){
-  .hero-grid,.about-grid,.contact-grid,.doors{grid-template-columns:1fr}
-  .sheet-list{grid-template-columns:1fr}
-  .case{grid-template-columns:1fr;gap:1rem;padding:1.8rem 0}
-  .case .result{border-left:none;border-top:2px solid var(--orange);padding:.9rem 0 0}
-  .nav-links{
-    display:none;position:absolute;top:64px;left:0;right:0;
-    background:var(--panel);flex-direction:column;padding:1.4rem 24px;gap:1.2rem;
-    border-bottom:1px solid var(--line);align-items:flex-start;
-  }
-  .nav-links.open{display:flex}
-  .menu-toggle{display:block}
-  section{padding:60px 0}
-  .hero{padding:56px 0}
-}
-</style>
 <!-- Google Analytics 4 — replace G-XXXXXXXXXX with your Measurement ID, then uncomment.
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
 <script>
@@ -353,23 +81,20 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
 -->
 </head>
 <body>
-
 <header>
   <div class="wrap nav">
-    <a class="logo" href="#top">Knoxline<span>&nbsp;Systems</span></a>
+    <a class="logo" href="/">Knoxline<span>&nbsp;Systems</span></a>
     <button class="menu-toggle" aria-expanded="false" aria-controls="nav-links" onclick="const n=document.getElementById('nav-links');const o=n.classList.toggle('open');this.setAttribute('aria-expanded',o)">Menu</button>
     <ul class="nav-links" id="nav-links">
-      <li><a href="#services">Services</a></li>
-      <li><a href="#work">Work</a></li>
-      <li><a href="#engage">Pricing</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a class="btn solid" href="#contact">Book a call</a></li>
+      <li><a href="/services.html">Services</a></li>
+      <li><a href="/work.html">Work</a></li>
+      <li><a href="/services.html#pricing">Pricing</a></li>
+      <li><a href="/about.html">About</a></li>
+      <li><a class="btn solid" href="/contact.html">Book a call</a></li>
     </ul>
   </div>
 </header>
-
 <main id="top">
-
 <!-- HERO -->
 <section class="hero grid-bg">
   <div class="wrap hero-grid">
@@ -378,8 +103,8 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
       <h1 class="rise">The back office, <span class="accent">built to plan.</span></h1>
       <p class="lede rise">Knoxline Systems designs and builds the systems behind home-service businesses — websites, Google Ads, automated reporting, payroll, and CRM integration. One-off project builds or ongoing retainers.</p>
       <div class="hero-ctas rise">
-        <a class="btn solid" href="#contact">Book a call</a>
-        <a class="btn" href="#work">See client work</a>
+        <a class="btn solid" href="/contact.html">Book a call</a>
+        <a class="btn" href="/work.html">See client work</a>
       </div>
       <div class="hero-meta rise">
         <div><strong>Roofing · Appliance · Septic</strong>Industries served</div>
@@ -433,7 +158,6 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
     </figure>
   </div>
 </section>
-
 <!-- CLIENT STRIP -->
 <div class="strip" aria-label="Current clients">
   <div class="track">
@@ -449,219 +173,35 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
     <span aria-hidden="true"><b>Two &amp; Nine</b> · E-commerce · TX</span>
   </div>
 </div>
-
-<!-- SERVICES -->
-<section id="services">
+<div class="statband">
   <div class="wrap">
-    <div class="section-head reveal">
-      <p class="eyebrow">The drawing set</p>
-      <h2>Six systems. One operation.</h2>
-      <p class="lede">Take one sheet as a standalone project, or hand us the whole set on retainer. Everything below is work we're doing for clients right now — not a menu of things we'd be willing to try.</p>
-    </div>
-    <div class="sheet-list">
-      <div class="sheet reveal">
-        <span class="code">SHT W-01 · Web</span>
-        <h3>Websites &amp; SEO</h3>
-        <p>Fast, hand-built sites that load instantly and rank locally. No page builders, no bloat — the same stack this site runs on.</p>
-        <ul><li>Custom static builds &amp; redesigns</li><li>Local SEO, structured data, sitemaps</li><li>Google Analytics &amp; Search Console</li><li>Google Business Profile management</li></ul>
-      </div>
-      <div class="sheet reveal">
-        <span class="code">SHT A-01 · Ads</span>
-        <h3>Google Ads Management</h3>
-        <p>Full account ownership: audits that find wasted spend, conversion tracking that tells the truth, and campaigns built around your best jobs.</p>
-        <ul><li>Account audits &amp; junk-term cleanup</li><li>Conversion tracking overhauls</li><li>Campaign builds &amp; budget management</li><li>Monthly owner-ready reporting</li></ul>
-      </div>
-      <div class="sheet reveal">
-        <span class="code">SHT R-01 · Reporting</span>
-        <h3>Automated Reporting</h3>
-        <p>Your CRM already holds the answers. We pipe it into live dashboards and monthly PDF snapshots so you see every job, dollar, and rep without digging.</p>
-        <ul><li>CRM-to-dashboard pipelines</li><li>Cost-per-job &amp; CAC reporting</li><li>Rep &amp; crew performance tracking</li><li>Monthly PDF snapshots</li></ul>
-      </div>
-      <div class="sheet reveal">
-        <span class="code">SHT M-01 · Automation</span>
-        <h3>Business Automation</h3>
-        <p>The repetitive office work — payroll math, review requests, client offboarding, inventory alerts — handled by systems instead of Sunday nights.</p>
-        <ul><li>Payroll &amp; commission automation</li><li>Automatic review requests</li><li>Client onboarding &amp; offboarding flows</li><li>Alerts &amp; email automation</li></ul>
-      </div>
-      <div class="sheet reveal">
-        <span class="code">SHT C-01 · CRM</span>
-        <h3>CRM &amp; Integrations</h3>
-        <p>We make your tools talk to each other so data gets entered once and shows up everywhere it should.</p>
-        <ul><li>JobNimbus · Housecall Pro</li><li>Shopify · Klaviyo</li><li>GoHighLevel · Google Workspace</li><li>Custom API integrations</li></ul>
-      </div>
-      <div class="sheet reveal">
-        <span class="code">SHT D-01 · Data</span>
-        <h3>Data &amp; Financial Analysis</h3>
-        <p>Data-science-grade analysis for main-street businesses: where clients churn, which jobs make money, and what to do about it.</p>
-        <ul><li>Client retention &amp; churn studies</li><li>Revenue forecasting</li><li>Margin &amp; pricing audits</li><li>Marketing attribution</li></ul>
-      </div>
-    </div>
+    <div class="stat reveal"><b>247</b><span>Google reviews earned for a client who started with no website at all</span></div>
+    <div class="stat reveal"><b>2&times;</b><span>Client count and monthly revenue for a coaching business we systematized</span></div>
+    <div class="stat reveal"><b>6&ndash;8 hrs</b><span>Of payroll work per run, automated away for a two-location roofer</span></div>
   </div>
-</section>
-
-<!-- CASE STUDIES -->
-<section class="cases" id="work">
+</div>
+<section>
   <div class="wrap">
     <div class="section-head reveal">
-      <p class="eyebrow">As-built records</p>
-      <h2>Real clients. Named, with permission.</h2>
-      <p class="lede">Not stock photos and vague promises — actual systems running in actual businesses today.</p>
-    </div>
-
-    <div class="case reveal">
-      <div class="who"><b><a href="https://www.greaterroofingsolutions.com/" rel="noopener">Greater Roofing Solutions</a></b><span>Roofing · Alabama · 2 locations</span></div>
-      <div class="what">Full back-office build on top of JobNimbus: automated job and payment sync, a live company dashboard, cost-per-acquisition reporting, rep-level claims conversion tracking, commission and payroll automation, and automatic post-close review requests.</div>
-      <div class="result"><span class="label">Result</span><p>Payroll that used to eat 6–8 hours now runs itself, and the live dashboard answers the questions the owner used to spend hours calculating — every job, dollar, and rep across both locations, any time he wants to look.</p></div>
-    </div>
-
-    <div class="case reveal">
-      <div class="who"><b><a href="https://appliancetechpros.com/" rel="noopener">Appliance Tech Pros</a></b><span>Appliance repair · Georgia</span></div>
-      <div class="what">Google Ads takeover: full account audit, conversion tracking rebuilt from the ground up (including ghost conversion actions that were inflating results), junk-term cleanup, new campaign builds for premium brands and commercial work, plus tech payroll automated straight from Housecall Pro.</div>
-      <div class="result"><span class="label">Result</span><p>The audit uncovered ghost conversions and junk search terms quietly burning budget — that waste is gone, every dollar now tracks to a real phone call from an ad, and payroll for four techs runs from job data instead of manual math.</p></div>
-    </div>
-
-    <div class="case reveal">
-      <div class="who"><b><a href="https://www.livhillnutrition.net/" rel="noopener">Liv Hill Nutrition</a></b><span>Nutrition coaching · Knoxville, TN</span></div>
-      <div class="what">A full business dashboard covering every number in the company, paired with financial analysis. Automated client onboarding pulling directly from Wodify, coach payout automation, a retention study across every offboarded client, and an automated offboarding and win-back workflow.</div>
-      <div class="result"><span class="label">Result</span><p>Client count has more than doubled — from 150 to 350 — and monthly revenue doubled with it. The automated workflows gave Liv her time back to spend growing the business instead of running it.</p></div>
-    </div>
-
-    <div class="case reveal">
-      <div class="who"><b><a href="https://allconga.com" rel="noopener">ALLCON Septic &amp; Grading</a></b><span>Septic &amp; grading · North Georgia</span></div>
-      <div class="what">Started from zero — no website, no Google Business Profile. Knoxline built the site, stood up and manages the Business Profile, and handles technical SEO and Search Console monitoring.</div>
-      <div class="result"><span class="label">Result</span><p>ALLCON now holds 247 Google reviews, and every month the site brings in 5+ form fills and roughly 10 organic calls from real leads — without spending a dollar on ads. See it live at allconga.com.</p></div>
-    </div>
-
-    <div class="case reveal">
-      <div class="who"><b>Two &amp; Nine</b><span>E-commerce · Texas</span></div>
-      <div class="what">Shopify inventory alert system, email flow buildout in Klaviyo, revenue forecasting, and margin analysis across the product line.</div>
-      <div class="result"><span class="label">Result</span><p>Restocks get flagged before they become stockouts, and pricing decisions run on numbers instead of gut feel.</p></div>
-    </div>
-
-    <div class="section-head reveal" style="margin-top:5rem">
       <p class="eyebrow">On screen</p>
       <h2>The dashboard an owner opens every morning</h2>
       <p class="lede">A live example from Greater Roofing Solutions — fed automatically by their CRM, no manual entry, no waiting on anyone. Client figures blurred; yours won't be.</p>
     </div>
     <figure class="shot reveal" style="max-width:1000px">
       <div class="plate"><b>GRS · Live Dashboard</b><span>Google Sheets · Fed by JobNimbus · Updates automatically</span></div>
-      <img src="assets/grs-dashboard.png" alt="Greater Roofing Solutions live business dashboard showing monthly and year-to-date jobs, contract value, cash collected, location breakdown, rep leaderboard, and a 12-month chart. Dollar figures blurred for client privacy." width="1400" height="716" loading="lazy">
+      <img src="/assets/grs-dashboard.png" alt="Greater Roofing Solutions live business dashboard showing monthly and year-to-date jobs, contract value, cash collected, location breakdown, rep leaderboard, and a 12-month chart. Dollar figures blurred for client privacy." width="1400" height="716" loading="lazy">
       <p class="note">Monthly + YTD · By location · Rep leaderboard · 12-month trend</p>
     </figure>
+    <p class="teaser-cta reveal"><a class="btn" href="/work.html">See all client work</a></p>
   </div>
 </section>
-
-<!-- ENGAGEMENT -->
-<section id="engage" class="grid-bg">
-  <div class="wrap">
-    <div class="section-head reveal">
-      <p class="eyebrow">Two ways in</p>
-      <h2>Project builds &amp; retainers</h2>
-      <p class="lede">Some businesses need one thing built right. Some need a systems partner every month. We do both — and plenty of retainers started as a single project.</p>
-    </div>
-    <div class="doors">
-      <div class="door reveal">
-        <span class="tag">One-off</span>
-        <h3>Project Build</h3>
-        <p class="price">Fixed quote · Scoped up front</p>
-        <p>A defined build with a defined price. You know exactly what you're getting and what it costs before we start.</p>
-        <ul>
-          <li>Website build or redesign</li>
-          <li>Google Ads account audit &amp; cleanup</li>
-          <li>Reporting dashboard or payroll system</li>
-          <li>A specific automation or integration</li>
-        </ul>
-        <a class="btn" href="#contact">Get a quote</a>
-      </div>
-      <div class="door featured reveal">
-        <span class="tag">Monthly</span>
-        <h3>Systems Retainer</h3>
-        <p class="price">Monthly · Scoped to your operation</p>
-        <p>Ongoing ownership of your systems: we build, maintain, monitor, and improve — and you get a technical partner who already knows your business.</p>
-        <ul>
-          <li>Everything in the drawing set, prioritized</li>
-          <li>Ads management &amp; monthly reporting</li>
-          <li>Dashboards kept live and accurate</li>
-          <li>Direct line to Westyn, not a ticket queue</li>
-        </ul>
-        <a class="btn solid" href="#contact">Book a call</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ABOUT -->
-<section id="about">
-  <div class="wrap about-grid">
-    <div class="about-copy reveal">
-      <p class="eyebrow">Who's behind it</p>
-      <h2>Westyn Hilliard</h2>
-      <p><b>Knoxline Systems is run by a working data scientist, not an agency — and by someone who grew up in the industry it serves.</b> Westyn comes from a line of home-service business owners. That's where his love for business, and for growing one, took root — and where he learned what ownership really feels like: wanting to grow your company but being stuck working in the back end of it instead.</p>
-      <p>He earned his bachelor's in business management while working full time at a financial institution, then his master's in data science. Today he builds production AI and analytics systems for one of the largest logistics companies in the world — using numbers and data to save the organization millions.</p>
-      <p>Knoxline brings that same engineering to businesses that pour concrete, fix appliances, and put on roofs. That combination is the whole point: home-service businesses rarely get access to someone who can build real data pipelines and automation — and data people rarely understand how a roofing company actually makes money. Knoxline sits exactly in the middle.</p>
-      <p>Every client works directly with Westyn. No account managers, no offshore handoffs, no ticket queues.</p>
-    </div>
-    <div class="about-photo-col reveal">
-      <div class="photo-plate">
-        <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
-        <div class="frame"><img src="assets/westyn.jpg" alt="Westyn Hilliard, founder of Knoxline Systems" width="360" height="540" loading="lazy"></div>
-        <div class="caption"><b>W. Hilliard</b><span>Principal · Knoxville, TN</span></div>
-      </div>
-      <div class="facts">
-        <div><span class="k">Base</span><div class="v">Knoxville, Tennessee</div></div>
-        <div><span class="k">Roots</span><div class="v">A family line of home-service business owners</div></div>
-        <div><span class="k">Range</span><div class="v">The Southeast &amp; beyond — everything runs remote</div></div>
-        <div><span class="k">Background</span><div class="v">B.S. Business Management · M.S. Data Science · Production AI in enterprise logistics</div></div>
-        <div><span class="k">Stack</span><div class="v">Google Cloud · Apps Script · Python · REST APIs · GitHub Pages</div></div>
-        <div><span class="k">Founded on</span><div class="v">Word of mouth — every client came from results, not ads</div></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- CONTACT -->
-<section class="contact" id="contact">
-  <div class="wrap contact-grid reveal">
-    <div>
-      <p class="eyebrow">Start here</p>
-      <h2>Tell us what's breaking.</h2>
-      <p class="lede" style="margin-bottom:1.6rem">A 30-minute call, no pitch deck. Bring the messiest part of your operation and we'll tell you honestly whether it's a project, a retainer, or something you can fix yourself.</p>
-      <a class="big-mail" href="mailto:Westyn@knoxlinesystems.com">Westyn@knoxlinesystems.com</a>
-    </div>
-    <div class="lines">
-      <div>Phone · <a href="tel:+18655662168">(865) 566-2168</a></div>
-      <div>LinkedIn · <a href="https://www.linkedin.com/in/westynhilliard/" rel="noopener">westynhilliard</a></div>
-      <div>Facebook · <a href="https://www.facebook.com/westyn.hilliard/" rel="noopener">westyn.hilliard</a></div>
-      <div>Instagram · <a href="https://www.instagram.com/westyn3/" rel="noopener">@westyn3</a></div>
-    </div>
-  </div>
-</section>
-
 </main>
-
 <footer>
   <div class="wrap">
     <p>© 2026 Knoxline Systems LLC · Knoxville, TN</p>
     <p>Built by hand on the same stack we sell.</p>
   </div>
 </footer>
-
-<script>
-document.documentElement.classList.add('js');
-(function(){
-  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  var els = document.querySelectorAll('.reveal');
-  if (reduce || !('IntersectionObserver' in window)) {
-    els.forEach(function(el){ el.classList.add('in'); });
-    return;
-  }
-  var io = new IntersectionObserver(function(entries){
-    entries.forEach(function(e){
-      if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
-    });
-  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
-  els.forEach(function(el){ io.observe(el); });
-})();
-</script>
+<script src="/assets/site.js"></script>
 </body>
 </html>
