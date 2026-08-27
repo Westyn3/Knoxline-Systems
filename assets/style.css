@@ -284,3 +284,23 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
 .facts-row .k{font-family:var(--mono);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--orange)}
 .facts-row .v{font-size:.92rem;margin-top:.35rem;color:var(--paper)}
 @media(max-width:900px){.facts-row{grid-template-columns:1fr 1fr}.facts-row>div:last-child{grid-column:1/-1}}
+
+/* Nav dropdown */
+.has-drop{position:relative}
+.has-drop>a .caret{font-size:.6rem;margin-left:.3rem;display:inline-block}
+.drop{
+  display:none;position:absolute;top:100%;left:-.6rem;z-index:60;
+  background:var(--panel);border:1px solid var(--line);
+  min-width:240px;padding:.5rem 0;
+}
+.drop a{
+  display:block;padding:.6rem 1.2rem;
+  font-family:var(--mono);font-size:.74rem;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--slate);text-decoration:none;
+}
+.drop a:hover,.drop a:focus-visible{color:var(--orange);background:var(--ink)}
+.has-drop:hover .drop,.has-drop:focus-within .drop{display:block}
+@media(max-width:900px){
+  .drop{display:block;position:static;border:none;background:none;min-width:0;padding:.3rem 0 .2rem 1.1rem}
+  .drop a{padding:.45rem 0}
+}
