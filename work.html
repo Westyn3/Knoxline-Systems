@@ -46,7 +46,18 @@
     <a class="logo" href="/">Knoxline<span>&nbsp;Systems</span></a>
     <button class="menu-toggle" aria-expanded="false" aria-controls="nav-links" onclick="const n=document.getElementById('nav-links');const o=n.classList.toggle('open');this.setAttribute('aria-expanded',o)">Menu</button>
     <ul class="nav-links" id="nav-links">
-      <li><a href="/services.html">Services</a></li>
+      <li><a href="/">Home</a></li>
+      <li class="has-drop">
+        <a href="/services.html">Services<span class="caret">▾</span></a>
+        <div class="drop">
+          <a href="/websites.html">Websites &amp; SEO</a>
+          <a href="/google-ads.html">Google Ads</a>
+          <a href="/automated-reporting.html">Automated Reporting</a>
+          <a href="/business-automation.html">Business Automation</a>
+          <a href="/crm-integration.html">CRM &amp; Integrations</a>
+          <a href="/data-analysis.html">Data &amp; Analysis</a>
+        </div>
+      </li>
       <li><a href="/work.html" class="active">Work</a></li>
       <li><a href="/services.html#pricing">Pricing</a></li>
       <li><a href="/about.html">About</a></li>
