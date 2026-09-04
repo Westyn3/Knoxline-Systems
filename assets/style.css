@@ -304,3 +304,13 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
   .drop{display:block;position:static;border:none;background:none;min-width:0;padding:.3rem 0 .2rem 1.1rem}
   .drop a{padding:.45rem 0}
 }
+
+/* Breadcrumbs */
+.crumbs{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--slate);margin-bottom:1.2rem}
+.crumbs a{color:var(--slate);text-decoration:none}
+.crumbs a:hover{color:var(--orange)}
+.crumbs span{color:var(--orange)}
+/* Contact FAQ */
+.faq-item{border-top:1px solid var(--line-faint);padding:1.4rem 0}
+.faq-item h3{font-size:1.15rem;font-weight:600;letter-spacing:.02em;margin-bottom:.5rem}
+.faq-item p{color:var(--slate);font-size:.97rem}
