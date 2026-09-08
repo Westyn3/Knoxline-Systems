@@ -253,8 +253,9 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
   .case .result{border-left:none;border-top:2px solid var(--orange);padding:.9rem 0 0}
   .nav-links{
     display:none;position:absolute;top:64px;left:0;right:0;
-    background:var(--panel);flex-direction:column;padding:1.4rem 24px;gap:1.2rem;
+    background:var(--panel);flex-direction:column;padding:1.2rem 24px 2rem;gap:.9rem;
     border-bottom:1px solid var(--line);align-items:flex-start;
+    max-height:calc(100dvh - 64px);overflow-y:auto;-webkit-overflow-scrolling:touch;
   }
   .nav-links.open{display:flex}
   .menu-toggle{display:block}
