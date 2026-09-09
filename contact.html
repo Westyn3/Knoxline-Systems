@@ -35,10 +35,8 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-SXRLYXPJ7D');
 </script>
-  
 </head>
 <body>
 <header>
@@ -97,6 +95,63 @@
       <div>Facebook · <a href="https://www.facebook.com/westyn.hilliard/" rel="noopener">westyn.hilliard</a></div>
       <div>Instagram · <a href="https://www.instagram.com/westyn3/" rel="noopener">@westyn3</a></div>
     </div>
+  </div>
+</section>
+
+<!-- CONTACT FORM -->
+<section style="padding-top:0">
+  <div class="wrap reveal" style="max-width:760px">
+    <div class="section-head" style="margin-bottom:1.6rem">
+      <p class="eyebrow">Send a message</p>
+      <h2>Tell me what you're working on.</h2>
+      <p class="lede">Give me a little context and I'll get back to you.</p>
+    </div>
+
+    <form action="https://formspree.io/f/mppzkdlo" method="POST" style="display:grid;gap:1rem">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem">
+        <label>
+          <span>Name</span>
+          <input type="text" name="name" autocomplete="name" required style="width:100%;margin-top:.45rem;padding:.9rem 1rem;font:inherit">
+        </label>
+        <label>
+          <span>Business name</span>
+          <input type="text" name="business" autocomplete="organization" style="width:100%;margin-top:.45rem;padding:.9rem 1rem;font:inherit">
+        </label>
+      </div>
+
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem">
+        <label>
+          <span>Email</span>
+          <input type="email" name="email" autocomplete="email" required style="width:100%;margin-top:.45rem;padding:.9rem 1rem;font:inherit">
+        </label>
+        <label>
+          <span>Phone</span>
+          <input type="tel" name="phone" autocomplete="tel" style="width:100%;margin-top:.45rem;padding:.9rem 1rem;font:inherit">
+        </label>
+      </div>
+
+      <label>
+        <span>What can I help with?</span>
+        <select name="service" style="width:100%;margin-top:.45rem;padding:.9rem 1rem;font:inherit">
+          <option value="">Select a service</option>
+          <option value="Websites & SEO">Websites &amp; SEO</option>
+          <option value="Google Ads">Google Ads</option>
+          <option value="Automated Reporting">Automated Reporting</option>
+          <option value="Business Automation">Business Automation</option>
+          <option value="CRM & Integrations">CRM &amp; Integrations</option>
+          <option value="Data & Analysis">Data &amp; Analysis</option>
+          <option value="Other">Other</option>
+        </select>
+      </label>
+
+      <label>
+        <span>What's going on?</span>
+        <textarea name="message" rows="6" required placeholder="Tell me about the problem, what you've tried, or what you'd like to improve." style="width:100%;margin-top:.45rem;padding:.9rem 1rem;font:inherit;resize:vertical"></textarea>
+      </label>
+
+      <input type="hidden" name="_subject" value="New Knoxline Systems website inquiry">
+      <button class="btn solid" type="submit" style="justify-self:start;cursor:pointer">Send message</button>
+    </form>
   </div>
 </section>
 
