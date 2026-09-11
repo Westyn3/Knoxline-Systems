@@ -4,17 +4,27 @@ on:
   schedule:
     # GitHub Actions cron uses UTC.
     # Run Fridays at both possible 8:05 AM Eastern UTC equivalents so DST is covered.
-    # The timezone check below ensures only the run during the 8 AM America/New_York hour deploys.
+    # Only the run during the 8 AM America/New_York hour deploys.
     - cron: '5 12 * * 5'
     - cron: '5 13 * * 5'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  rebuild:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+
     steps:
       - name: Check whether it is the 8 AM Eastern hour
         id: eastern_time
@@ -35,10 +45,24 @@ jobs:
         if: steps.eastern_time.outputs.run == 'true'
         uses: actions/checkout@v4
 
-      - name: Trigger GitHub Pages rebuild
+      - name: Configure GitHub Pages
         if: steps.eastern_time.outputs.run == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --allow-empty -m "Scheduled Pages rebuild"
-          git push
+        uses: actions/configure-pages@v5
+
+      - name: Build Jekyll site
+        if: steps.eastern_time.outputs.run == 'true'
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload Pages artifact
+        if: steps.eastern_time.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      - name: Deploy to GitHub Pages
+        if: steps.eastern_time.outputs.run == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
