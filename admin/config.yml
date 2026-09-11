@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Westyn3/Knoxline-Systems
   branch: main
-  base_url: https://YOUR-SVELTIA-AUTH-WORKER.workers.dev   # ← same Worker URL you use for Britney's site
+  base_url: https://westyn-blog-auth.whilliard3.workers.dev/
 
 site_url: https://www.knoxlinesystems.com
 media_folder: assets/blog          # uploaded images live here in the repo
