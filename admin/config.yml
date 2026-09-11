@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: Westyn3/Knoxline-Systems
+  branch: main
+  base_url: https://YOUR-SVELTIA-AUTH-WORKER.workers.dev   # ← same Worker URL you use for Britney's site
+
+site_url: https://www.knoxlinesystems.com
+media_folder: assets/blog          # uploaded images live here in the repo
+public_folder: /assets/blog        # and resolve from here on the site
+
+collections:
+  - name: posts
+    label: Field Notes
+    label_singular: Field Note
+    folder: _posts
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Description (1–2 sentences, becomes the meta description and lede), widget: text }
+      - { name: topic, label: Topic tag (e.g. "JobNimbus · Payroll Automation"), widget: string, required: false }
+      - { name: date, label: Publish date (future dates go live on the 7 AM build that day), widget: datetime }
+      - { name: image, label: Social share image (optional, 1200×630), widget: image, required: false }
+      - { name: body, label: Post, widget: markdown }
