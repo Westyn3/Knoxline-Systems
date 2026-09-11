@@ -1,0 +1,36 @@
+name: Fix BPA Post Year
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-bpa-post-year.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix-year:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Correct post year and filename
+        shell: bash
+        run: |
+          set -euo pipefail
+          OLD='_posts/2025-02-28-what-is-business-process-automation-and-do-you-need-it.md'
+          NEW='_posts/2026-02-28-what-is-business-process-automation-and-do-you-need-it.md'
+          sed -i '0,/date: 2025-02-28T08:00:00/s//date: 2026-02-28T08:00:00/' "$OLD"
+          git mv "$OLD" "$NEW"
+          git rm '.github/workflows/fix-bpa-post-year.yml'
+
+      - name: Commit correction
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Correct Business Process Automation post date to 2026'
+          git push
