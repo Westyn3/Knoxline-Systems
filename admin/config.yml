@@ -15,8 +15,8 @@ collections:
     folder: _posts
     create: true
     # Jekyll requires posts in _posts to begin with YYYY-MM-DD-.
-    # Use the Publish date field so scheduled posts keep their intended date.
-    slug: "{{date | date('YYYY-MM-DD')}}-{{slug}}"
+    # Sveltia's date tokens use the Publish date field below.
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: title, label: Title, widget: string }
       - { name: description, label: Description (1–2 sentences, becomes the meta description and lede), widget: text }
