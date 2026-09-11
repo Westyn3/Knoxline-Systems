@@ -35,21 +35,13 @@ CRM integration simply means connecting your customer relationship management sy
 Your CRM often contains some of the most valuable operational data in your company:
 
 - customers,
-
 - leads,
-
 - jobs,
-
 - sales,
-
 - estimates,
-
 - invoices,
-
 - employees,
-
 - job statuses,
-
 - and revenue.
 
 But that information becomes much more useful when it can automatically flow into the systems that need it.
@@ -89,19 +81,12 @@ But the information inside JobNimbus often needs to go somewhere else.
 A roofing company might need JobNimbus data for:
 
 - payroll,
-
 - sales commissions,
-
 - production reporting,
-
 - revenue analysis,
-
 - location-level reporting,
-
 - employee performance,
-
 - management dashboards,
-
 - or financial reconciliation.
 
 Without an integration, someone has to move that information manually.
@@ -127,17 +112,11 @@ That creates opportunities for automation around the operational data already be
 A business could use Housecall Pro data to help automate:
 
 - technician payroll calculations,
-
 - performance reporting,
-
 - completed-job reports,
-
 - revenue dashboards,
-
 - customer follow-ups,
-
 - review requests,
-
 - and recurring management reports.
 
 Instead of having employees maintain separate trackers, the information can flow from the system where the work is already happening.
@@ -151,15 +130,10 @@ The same principle applies outside traditional home-service businesses.
 An e-commerce company running Shopify may have valuable information about:
 
 - orders,
-
 - revenue,
-
 - products,
-
 - inventory,
-
 - customers,
-
 - and purchasing behavior.
 
 That information can feed automated reports, inventory alerts, revenue analysis, or other operational workflows.
@@ -247,15 +221,10 @@ The problem is that humans are manually moving information between them.
 Every copy-and-paste step introduces another opportunity for:
 
 - outdated information,
-
 - duplicate records,
-
 - incorrect values,
-
 - missed updates,
-
 - inconsistent formatting,
-
 - and simple human error.
 
 Integration reduces the number of times information has to be manually recreated.
@@ -295,15 +264,10 @@ Imagine a home-service company completes a job.
 Without automation, the process might look something like this:
 
 1. A technician or office employee updates the job in the CRM.
-
 2. Someone records the job information for payroll.
-
 3. Another employee updates a revenue spreadsheet.
-
 4. Management's report gets updated later.
-
 5. Someone sends the customer a review request.
-
 6. Accounting receives another version of the information.
 
 The same job has now been touched repeatedly.
