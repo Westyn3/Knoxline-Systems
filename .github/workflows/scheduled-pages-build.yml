@@ -3,10 +3,10 @@ name: Scheduled Pages Rebuild
 on:
   schedule:
     # GitHub Actions cron uses UTC.
-    # Run at both possible 8:05 AM Eastern UTC equivalents so DST is covered.
-    # The timezone check below ensures only the real 8:05 AM America/New_York run deploys.
-    - cron: '5 12 * * *'
-    - cron: '5 13 * * *'
+    # Run Fridays at both possible 8:05 AM Eastern UTC equivalents so DST is covered.
+    # The timezone check below ensures only the run during the 8 AM America/New_York hour deploys.
+    - cron: '5 12 * * 5'
+    - cron: '5 13 * * 5'
   workflow_dispatch:
 
 permissions:
@@ -16,15 +16,16 @@ jobs:
   rebuild:
     runs-on: ubuntu-latest
     steps:
-      - name: Check whether it is 8:05 AM Eastern
+      - name: Check whether it is the 8 AM Eastern hour
         id: eastern_time
         env:
           EVENT_NAME: ${{ github.event_name }}
         run: |
           HOUR=$(TZ=America/New_York date +'%H')
-          MINUTE=$(TZ=America/New_York date +'%M')
 
-          if [ "$EVENT_NAME" = "workflow_dispatch" ] || { [ "$HOUR" = "08" ] && [ "$MINUTE" = "05" ]; }; then
+          # Manual runs always proceed. Scheduled runs proceed during the 8 AM
+          # Eastern hour so a small GitHub Actions scheduling delay won't skip publishing.
+          if [ "$EVENT_NAME" = "workflow_dispatch" ] || [ "$HOUR" = "08" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
