@@ -2,7 +2,7 @@
 title: 'How We Automated Roofing Payroll with JobNimbus: From 6–8 Hours to Minutes'
 description: A two-location roofing company was spending 6–8 hours every pay period calculating commissions, bonuses, and weekly guarantees from JobNimbus data. Knoxline Systems built an automated payroll workflow that turned a half-day process into a simple review and approval.
 topic: JobNimbus · Roofing Payroll Automation
-date: 2026-09-18T08:00:00
+date: 2026-10-02T08:00:00
 image: ''
 ---
 
@@ -43,17 +43,11 @@ To prepare payroll, information had to be pulled together and reconciled across 
 That included things such as:
 
 - completed jobs,
-
 - job values,
-
 - salesperson commissions,
-
 - commission splits,
-
 - bonus tiers,
-
 - location-specific information,
-
 - and weekly guarantee calculations.
 
 Individually, none of those calculations were impossible.
@@ -157,15 +151,10 @@ A salesperson's pay may depend on more than a single percentage.
 There may be:
 
 - different commission rates,
-
 - split commissions,
-
 - performance bonuses,
-
 - thresholds,
-
 - job-specific rules,
-
 - or other compensation structures.
 
 Those rules are manageable when there are only a handful of jobs.
@@ -251,17 +240,11 @@ That can give an owner visibility into the numbers that matter without requiring
 Depending on the business, that could include things such as:
 
 - jobs,
-
 - revenue,
-
 - sales performance,
-
 - commissions,
-
 - location performance,
-
 - production activity,
-
 - or other operational KPIs.
 
 ### Automated Review Requests
@@ -369,19 +352,12 @@ Knoxline Systems builds custom JobNimbus integrations and automation for roofing
 That can include:
 
 - automated payroll workflows,
-
 - commission calculations,
-
 - live dashboards,
-
 - recurring owner reports,
-
 - review automation,
-
 - KPI tracking,
-
 - data analysis,
-
 - and custom integrations between JobNimbus and other business systems.
 
 We don't replace JobNimbus.
