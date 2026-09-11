@@ -2,7 +2,7 @@
 title: How We Automated a Two-Location Roofer's Payroll from JobNimbus
 description: Greater Roofing Solutions spent 6–8 hours every pay period on payroll math their CRM already knew. Here's the system that gave those hours back — commissions, bonuses, weekly guarantees and all.
 topic: JobNimbus · Payroll Automation
-date: 2026-09-18T08:00:00
+date: 2026-09-11T10:26:00
 image: ''
 ---
 
