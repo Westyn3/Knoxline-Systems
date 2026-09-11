@@ -87,19 +87,12 @@ The challenge was using that information outside the platform.
 The business still had administrative processes surrounding:
 
 - new-client onboarding,
-
 - coach setup,
-
 - coach payroll,
-
 - client management,
-
 - business KPIs,
-
 - cancellations,
-
 - retention,
-
 - and management reporting.
 
 The data existed.
@@ -243,21 +236,13 @@ Instead of information living across systems, spreadsheets, and individual emplo
 Depending on the metric, that can include areas such as:
 
 - active clients,
-
 - new clients,
-
 - cancellations,
-
 - retention,
-
 - client length,
-
 - coach performance,
-
 - engagement,
-
 - check-in completion,
-
 - and other operational KPIs.
 
 The purpose of a dashboard isn't to create more numbers.
@@ -549,21 +534,13 @@ Knoxline Systems helps coaching and membership-based businesses build better sys
 That can include:
 
 - Wodify integrations,
-
 - automated client onboarding,
-
 - coach payroll automation,
-
 - KPI dashboards,
-
 - client retention analysis,
-
 - cancellation tracking,
-
 - automated reporting,
-
 - workflow design,
-
 - and custom integrations.
 
 We don't start by asking what new software we can sell you.
