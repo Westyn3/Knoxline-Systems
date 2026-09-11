@@ -1,0 +1,123 @@
+---
+layout: null
+permalink: /blog.html
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SXRLYXPJ7D"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-SXRLYXPJ7D');</script>
+<title>Field Notes | Home-Service Systems Blog | Knoxline</title>
+<meta name="description" content="Field notes from Knoxline Systems: JobNimbus and Housecall Pro automation, Google Ads for the trades, review engines, and the systems behind home-service businesses.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="/assets/style.css">
+<link rel="canonical" href="https://www.knoxlinesystems.com/blog.html">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Westyn Hilliard">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="144x144" href="/assets/favicon-144.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Knoxline Systems">
+<meta property="og:title" content="Field Notes | Home-Service Systems Blog | Knoxline">
+<meta property="og:description" content="JobNimbus and Housecall Pro automation, Google Ads for the trades, review engines, and the systems behind home-service businesses.">
+<meta property="og:url" content="https://www.knoxlinesystems.com/blog.html">
+<meta property="og:image" content="https://www.knoxlinesystems.com/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="geo.placename" content="Knoxville">
+<meta name="geo.region" content="US-TN">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "Blog", "@id": "{{ '/blog.html' | absolute_url }}", "name": "Knoxline Systems Field Notes",
+      "url": "{{ '/blog.html' | absolute_url }}",
+      "author": { "@type": "Person", "name": "Westyn Hilliard" },
+      "publisher": { "@id": "https://www.knoxlinesystems.com/#business" } },
+    { "@type": "ItemList", "itemListElement": [
+      {% for post in site.posts %}{ "@type": "ListItem", "position": {{ forloop.index }}, "name": {{ post.title | jsonify }}, "url": "{{ post.url | absolute_url }}" }{% unless forloop.last %},{% endunless %}
+      {% endfor %}] }
+  ]
+}
+</script>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <a class="logo" href="/">KNOXLINE <span>SYSTEMS</span></a>
+    <button class="menu-btn" id="menu-btn" aria-label="Menu">Menu</button>
+<ul class="nav-links" id="nav-links">
+      <li><a href="/">Home</a></li>
+      <li class="has-drop">
+        <a href="/services.html">Services<span class="caret">▾</span></a>
+        <div class="drop">
+          <a href="/websites.html">Websites &amp; SEO</a>
+          <a href="/google-ads.html">Google Ads</a>
+          <a href="/automated-reporting.html">Automated Reporting</a>
+          <a href="/business-automation.html">Business Automation</a>
+          <a href="/crm-integration.html">CRM &amp; Integrations</a>
+          <a href="/data-analysis.html">Data &amp; Analysis</a>
+          <a href="/services.html#pricing">Pricing</a>
+        </div>
+      </li>
+      <li class="has-drop">
+        <a href="/work.html">Industries<span class="caret">▾</span></a>
+        <div class="drop">
+          <a href="/roofing.html">Roofing Companies</a>
+          <a href="/septic.html">Septic &amp; Grading</a>
+          <a href="/coaching.html">Coaches &amp; Gyms</a>
+        </div>
+      </li>
+      <li class="has-drop">
+        <a href="/crm-integration.html">Platforms<span class="caret">▾</span></a>
+        <div class="drop">
+          <a href="/jobnimbus.html">JobNimbus</a>
+          <a href="/housecall-pro.html">Housecall Pro</a>
+          <a href="/wodify.html">Wodify</a>
+        </div>
+      </li>
+      <li><a href="/work.html">Work</a></li>
+      <li><a href="/blog.html" class="active">Blog</a></li>
+      <li><a href="/about.html">About</a></li>
+      <li><a class="btn solid" href="/contact.html">Book a call</a></li>
+    </ul>
+  </div>
+</header>
+<main id="top">
+<section class="page-head">
+  <div class="wrap">
+    <p class="eyebrow">SHT B-01 · Field Notes</p>
+    <h1>The blog</h1>
+    <p class="lede">Real builds, real numbers — JobNimbus and Housecall Pro automation, Google Ads for the trades, and the systems behind home-service businesses.</p>
+  </div>
+</section>
+<section style="padding-top:24px">
+  <div class="wrap">
+{% for post in site.posts %}
+    <article class="blog-entry reveal">
+      <p class="meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.topic %} · {{ post.topic }}{% endif %} · Westyn Hilliard</p>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+      <a class="more" href="{{ post.url | relative_url }}">Read the field note →</a>
+    </article>
+{% endfor %}
+    <p style="margin-top:2.4rem;font-family:var(--mono);font-size:.78rem;color:var(--slate)">Got a back-office problem you want written up? <a href="/contact.html" style="color:var(--orange)">Send it over →</a></p>
+  </div>
+</section>
+</main>
+<footer>
+  <div class="wrap">
+    <p>© 2026 Knoxline Systems LLC · Knoxville, TN</p>
+    <p>Built by hand on the same stack we sell.</p>
+  </div>
+</footer>
+<script src="/assets/site.js"></script>
+</body>
+</html>

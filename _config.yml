@@ -1,0 +1,14 @@
+# Jekyll config — existing static .html pages without front matter are copied through untouched.
+title: "Knoxline Systems"
+url: "https://www.knoxlinesystems.com"
+timezone: America/New_York
+future: false
+permalink: /blog/:title/
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
+exclude:
+  - README.md

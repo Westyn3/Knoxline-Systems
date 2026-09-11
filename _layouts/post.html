@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SXRLYXPJ7D"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-SXRLYXPJ7D');</script>
+<title>{{ page.title }} | Knoxline Systems</title>
+<meta name="description" content="{{ page.description | escape }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="/assets/style.css">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Westyn Hilliard">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="144x144" href="/assets/favicon-144.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Knoxline Systems">
+<meta property="og:title" content="{{ page.title | escape }}">
+<meta property="og:description" content="{{ page.description | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="geo.placename" content="Knoxville">
+<meta name="geo.region" content="US-TN">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "{{ page.url | absolute_url }}",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "url": "{{ page.url | absolute_url }}",
+  "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}",
+  "author": { "@type": "Person", "name": "Westyn Hilliard", "url": "{{ '/about.html' | absolute_url }}" },
+  "publisher": { "@id": "https://www.knoxlinesystems.com/#business" },
+  "mainEntityOfPage": "{{ page.url | absolute_url }}",
+  "isPartOf": { "@type": "Blog", "@id": "{{ '/blog.html' | absolute_url }}", "name": "Knoxline Systems Field Notes" }
+}
+</script>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <a class="logo" href="/">KNOXLINE <span>SYSTEMS</span></a>
+    <button class="menu-btn" id="menu-btn" aria-label="Menu">Menu</button>
+<ul class="nav-links" id="nav-links">
+      <li><a href="/">Home</a></li>
+      <li class="has-drop">
+        <a href="/services.html">Services<span class="caret">▾</span></a>
+        <div class="drop">
+          <a href="/websites.html">Websites &amp; SEO</a>
+          <a href="/google-ads.html">Google Ads</a>
+          <a href="/automated-reporting.html">Automated Reporting</a>
+          <a href="/business-automation.html">Business Automation</a>
+          <a href="/crm-integration.html">CRM &amp; Integrations</a>
+          <a href="/data-analysis.html">Data &amp; Analysis</a>
+          <a href="/services.html#pricing">Pricing</a>
+        </div>
+      </li>
+      <li class="has-drop">
+        <a href="/work.html">Industries<span class="caret">▾</span></a>
+        <div class="drop">
+          <a href="/roofing.html">Roofing Companies</a>
+          <a href="/septic.html">Septic &amp; Grading</a>
+          <a href="/coaching.html">Coaches &amp; Gyms</a>
+        </div>
+      </li>
+      <li class="has-drop">
+        <a href="/crm-integration.html">Platforms<span class="caret">▾</span></a>
+        <div class="drop">
+          <a href="/jobnimbus.html">JobNimbus</a>
+          <a href="/housecall-pro.html">Housecall Pro</a>
+          <a href="/wodify.html">Wodify</a>
+        </div>
+      </li>
+      <li><a href="/work.html">Work</a></li>
+      <li><a href="/blog.html" class="active">Blog</a></li>
+      <li><a href="/about.html">About</a></li>
+      <li><a class="btn solid" href="/contact.html">Book a call</a></li>
+    </ul>
+  </div>
+</header>
+<main id="top">
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/blog.html">Blog</a> › <span>{{ page.title }}</span></nav>
+    <p class="eyebrow">{{ page.date | date: "%B %-d, %Y" }}{% if page.topic %} · {{ page.topic }}{% endif %}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+  </div>
+</section>
+<section style="padding-top:32px">
+  <div class="wrap">
+    <div class="post-prose reveal">
+{{ content }}
+    </div>
+  </div>
+</section>
+<section class="grid-bg" style="padding:72px 0">
+  <div class="wrap">
+    <div class="section-head reveal" style="margin-bottom:1.4rem">
+      <p class="eyebrow">Start here</p>
+      <h2>Sound like your operation?</h2>
+      <p class="lede">A 30-minute call, no pitch deck. Bring the messiest part of your operation and we'll tell you honestly how we'd fix it.</p>
+    </div>
+    <p class="reveal"><a class="btn solid" href="/contact.html">Book a call</a>&nbsp;&nbsp;<a class="btn" href="/work.html">See client work</a></p>
+  </div>
+</section>
+</main>
+<footer>
+  <div class="wrap">
+    <p>© 2026 Knoxline Systems LLC · Knoxville, TN</p>
+    <p>Built by hand on the same stack we sell.</p>
+  </div>
+</footer>
+<script src="/assets/site.js"></script>
+</body>
+</html>
