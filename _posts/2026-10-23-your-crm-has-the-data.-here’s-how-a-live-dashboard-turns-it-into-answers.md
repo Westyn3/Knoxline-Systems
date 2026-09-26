@@ -2,7 +2,7 @@
 title: Your CRM Has the Data. Here’s How a Live Dashboard Turns It Into Answers
 description: Most service businesses already have the data needed to understand revenue, cash collected, sales performance, acquisition costs, and location profitability. Knoxline Systems builds automated CRM dashboards and reports that turn that data into answers without exports or spreadsheet work.
 topic: Automated Reporting · CRM Dashboards · Business Intelligence
-date: 2026-10-23T08:00:00
+date: 2026-10-23T08:00:00-04:00
 image: ''
 ---
 

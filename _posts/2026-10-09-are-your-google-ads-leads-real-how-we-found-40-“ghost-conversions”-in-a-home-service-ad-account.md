@@ -2,7 +2,7 @@
 title: Are Your Google Ads Leads Real? How We Found 40% “Ghost Conversions” in a Home-Service Ad Account
 description: A Georgia home-service company thought Google Ads was generating dozens of leads each month—until an audit revealed nearly 40% were accidental map taps and direction clicks. Here's how Knoxline Systems rebuilt the account around real phone calls, profitable searches, and ad spend the owner could actually trust.
 topic: Google Ads · Home-Service Marketing · Conversion Tracking
-date: 2026-10-09T08:00:00
+date: 2026-10-09T08:00:00-04:00
 image: ''
 ---
 

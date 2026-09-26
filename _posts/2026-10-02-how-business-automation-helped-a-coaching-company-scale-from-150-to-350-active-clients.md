@@ -2,7 +2,7 @@
 title: How Business Automation Helped a Coaching Company Scale From 150 to 350 Active Clients
 description: Liv Hill Nutrition grew from roughly 150 to 350 active clients without burying the owner in administrative work. By connecting Wodify to automated onboarding, coach payroll, business dashboards, and retention analysis, Knoxline Systems helped build the operational capacity to scale.
 topic: Wodify · Coaching Business Automation · Business Growth
-date: 2026-10-02T08:00:00
+date: 2026-10-02T08:00:00-04:00
 image: ''
 ---
 
