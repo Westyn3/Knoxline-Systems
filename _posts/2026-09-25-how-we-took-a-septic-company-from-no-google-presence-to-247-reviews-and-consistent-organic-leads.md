@@ -2,7 +2,7 @@
 title: How We Took a Septic Company From No Google Presence to 247 Reviews and Consistent Organic Leads
 description: ALLCON Septic & Grading went from no website and virtually no Google presence to 247 reviews at 4.9 stars, 5+ website inquiries per month, and roughly 10 organic calls per month—all without paid ads. Here's the local SEO system behind the growth.
 topic: Local SEO · Google Business Profile · Septic Marketing
-date: 2026-09-25T08:00:00
+date: 2026-09-25T09:00:00-04:00
 image: ''
 ---
 
