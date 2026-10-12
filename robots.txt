@@ -1,3 +1,24 @@
+# Knoxline Systems — knoxlinesystems.com
+# Search engines and AI answer engines are welcome to read and cite this site.
+
+# AI search and answer engines (explicitly allowed)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+
+# Everyone else
 User-agent: *
 Allow: /
+Disallow: /admin/
+
 Sitemap: https://www.knoxlinesystems.com/sitemap.xml
