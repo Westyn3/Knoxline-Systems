@@ -336,3 +336,35 @@ footer p{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-trans
 .post-prose li{margin-bottom:.4rem}
 .post-prose a{color:var(--orange)}
 .post-prose blockquote{border-left:2px solid var(--orange);padding-left:1.1rem;margin:1.4rem 0;color:var(--slate);font-style:italic}
+
+/* Click-to-call (header + footer) */
+.nav-links a.nav-phone{font-family:var(--mono);letter-spacing:.04em;color:var(--orange);white-space:nowrap}
+.nav-links a.nav-phone:hover,.nav-links a.nav-phone:focus-visible{color:var(--paper)}
+.nav-call{display:none;margin-left:auto;margin-right:.6rem;border:1px solid var(--orange);color:var(--orange);font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;padding:.5rem .8rem;text-decoration:none}
+.nav-call:hover,.nav-call:focus-visible{background:var(--orange);color:var(--ink)}
+@media(max-width:900px){.nav-call{display:inline-block}}
+footer a{color:inherit;text-decoration:none}
+footer a:hover,footer a:focus-visible{color:var(--orange)}
+.case .result p a{color:var(--orange);text-decoration:none;white-space:nowrap}
+.case .result p a:hover,.case .result p a:focus-visible{text-decoration:underline}
+@media(min-width:901px) and (max-width:1180px){.nav-links li.nav-phone-item{display:none}}
+
+/* FAQ accordions + process steps (platform/service pages) */
+details.faq-item summary{cursor:pointer;list-style:none;font-family:var(--body);font-size:1.12rem;font-weight:600;color:var(--paper);position:relative;padding-right:2rem}
+details.faq-item summary::-webkit-details-marker{display:none}
+details.faq-item summary::after{content:"+";position:absolute;right:0;top:0;color:var(--orange);font-family:var(--mono);font-size:1.2rem;line-height:1.3}
+details.faq-item[open] summary::after{content:"–"}
+details.faq-item p{margin-top:.7rem;max-width:72ch}
+.faq-list{max-width:860px}
+.steps{list-style:none;counter-reset:step;display:grid;grid-template-columns:repeat(2,1fr);gap:1.6rem 2.5rem;max-width:980px;padding:0}
+.steps li{counter-increment:step;border-top:2px solid var(--orange);padding-top:1rem}
+.steps li::before{content:"0" counter(step);display:block;font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;color:var(--orange);margin-bottom:.4rem}
+.steps h3{font-size:1.2rem;margin-bottom:.4rem}
+.steps p{color:var(--slate);font-size:.96rem}
+.prose-block{max-width:780px}
+.prose-block p{color:var(--slate);margin-bottom:1rem}
+.prose-block ul{margin:0 0 1rem 1.1rem;color:var(--slate)}
+.prose-block li{margin-bottom:.45rem}
+.prose-block a{color:var(--orange)}
+@media(max-width:900px){.steps{grid-template-columns:1fr}}
+.steps.plain li::before{display:none}
