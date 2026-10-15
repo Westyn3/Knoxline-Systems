@@ -26,6 +26,11 @@
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+<meta property="article:modified_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
+<meta property="article:author" content="{{ '/about.html' | absolute_url }}">
+{% if page.topic %}<meta property="article:section" content="{{ page.topic | escape }}">
+{% endif %}<link rel="alternate" type="application/atom+xml" title="Knoxline Systems Field Notes" href="/feed.xml">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="geo.placename" content="Knoxville">
 <meta name="geo.region" content="US-TN">
@@ -40,10 +45,22 @@
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "url": "{{ page.url | absolute_url }}",
   "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}",
-  "author": { "@type": "Person", "name": "Westyn Hilliard", "url": "{{ '/about.html' | absolute_url }}" },
+  "author": { "@type": "Person", "@id": "https://www.knoxlinesystems.com/about.html#westyn", "name": "Westyn Hilliard", "url": "{{ '/about.html' | absolute_url }}" },{% if page.topic %}
+  "articleSection": {{ page.topic | jsonify }},{% endif %}
   "publisher": { "@id": "https://www.knoxlinesystems.com/#business" },
   "mainEntityOfPage": "{{ page.url | absolute_url }}",
   "isPartOf": { "@type": "Blog", "@id": "{{ '/blog.html' | absolute_url }}", "name": "Knoxline Systems Field Notes" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.knoxlinesystems.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.knoxlinesystems.com/blog.html" },
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
+  ]
 }
 </script>
 </head>

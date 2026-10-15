@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /feed.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Knoxline Systems Field Notes</title>
+  <subtitle>JobNimbus and Housecall Pro automation, Google Ads for the trades, and the systems behind home-service businesses.</subtitle>
+  <link href="{{ '/feed.xml' | absolute_url }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ '/blog.html' | absolute_url }}" rel="alternate" type="text/html"/>
+  <id>{{ '/blog.html' | absolute_url }}</id>
+  <updated>{% if site.posts.size > 0 %}{{ site.posts.first.last_modified_at | default: site.posts.first.date | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</updated>
+  <author>
+    <name>Westyn Hilliard</name>
+    <uri>{{ '/about.html' | absolute_url }}</uri>
+  </author>
+  <icon>{{ '/assets/favicon-512.png' | absolute_url }}</icon>
+  <rights>© {{ site.time | date: '%Y' }} Knoxline Systems, LLC</rights>
+  {% for post in site.posts limit: 50 %}
+  <entry>
+    <title>{{ post.title | xml_escape }}</title>
+    <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html"/>
+    <id>{{ post.url | absolute_url }}</id>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
+    <author><name>Westyn Hilliard</name></author>
+    {% if post.topic %}<category term="{{ post.topic | xml_escape }}"/>{% endif %}
+    <summary type="html">{{ post.description | xml_escape }}</summary>
+  </entry>
+  {% endfor %}
+</feed>
