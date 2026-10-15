@@ -32,19 +32,31 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.knoxlinesystems.com/#website",
+  "name": "Knoxline Systems",
+  "alternateName": "Knoxline Systems, LLC",
+  "url": "https://www.knoxlinesystems.com/",
+  "publisher": { "@id": "https://www.knoxlinesystems.com/#business" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
   "@type": "ProfessionalService",
   "@id": "https://www.knoxlinesystems.com/#business",
   "name": "Knoxline Systems",
   "legalName": "Knoxline Systems, LLC",
+  "alternateName": ["Knoxline Systems, LLC", "Knoxline"],
   "url": "https://www.knoxlinesystems.com",
-  "logo": "https://www.knoxlinesystems.com/assets/og-image.png",
+  "logo": { "@type": "ImageObject", "url": "https://www.knoxlinesystems.com/assets/favicon-512.png", "width": 512, "height": 512 },
   "image": "https://www.knoxlinesystems.com/assets/og-image.png",
   "email": "Westyn@knoxlinesystems.com",
   "telephone": "+18655662168",
   "priceRange": "$$",
   "address": { "@type": "PostalAddress", "addressLocality": "Knoxville", "addressRegion": "TN", "addressCountry": "US" },
   "geo": { "@type": "GeoCoordinates", "latitude": 35.9606, "longitude": -83.9207 },
-  "hasMap": "https://share.google/zQubW2PJZpJELhc4n",
+  "hasMap": "https://maps.google.com/?cid=11728304054684547261",
   "openingHoursSpecification": [
     { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "07:00", "closes": "18:00" }
   ],
@@ -56,7 +68,8 @@
     "South Carolina", "North Carolina", "Kentucky"
   ],
   "description": "Websites, Google Ads management, automated reporting, payroll automation, and CRM integration for home-service businesses. Project builds or monthly retainers.",
-  "founder": { "@type": "Person", "name": "Westyn Hilliard", "jobTitle": "Founder", "sameAs": "https://www.linkedin.com/in/westynhilliard/" },
+  "founder": { "@type": "Person", "@id": "https://www.knoxlinesystems.com/about.html#westyn", "name": "Westyn Hilliard", "jobTitle": "Founder", "url": "https://www.knoxlinesystems.com/about.html", "sameAs": "https://www.linkedin.com/in/westynhilliard/" },
+  "contactPoint": { "@type": "ContactPoint", "telephone": "+18655662168", "email": "Westyn@knoxlinesystems.com", "contactType": "sales", "availableLanguage": "English" },
   "knowsAbout": ["Business management consulting", "Website design", "Business automation", "Marketing consulting", "Internet marketing", "Business development", "Google Ads", "Automated reporting", "CRM integration", "Data analysis"],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -71,6 +84,8 @@
     ]
   },
   "sameAs": [
+    "https://maps.google.com/?cid=11728304054684547261",
+    "https://share.google/Hlj1s5ZEUOOriPEMZ",
     "https://share.google/zQubW2PJZpJELhc4n",
     "https://www.facebook.com/westyn.hilliard/",
     "https://www.instagram.com/westyn3/",
