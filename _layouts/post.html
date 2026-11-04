@@ -23,7 +23,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Knoxline Systems">
-<meta property="og:title" content="{{ page.title | escape }}">
+<meta property="og:title" content="{{ seo_t | escape }}">
 <meta property="og:description" content="{{ seo_d | escape }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}">
@@ -35,6 +35,16 @@
 {% if page.topic %}<meta property="article:section" content="{{ page.topic | escape }}">
 {% endif %}<link rel="alternate" type="application/atom+xml" title="Knoxline Systems Field Notes" href="/feed.xml">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ seo_t | escape }}">
+<meta name="twitter:description" content="{{ seo_d | escape }}">
+<meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}">
+<meta property="og:image:alt" content="Knoxline Systems: websites, Google Ads and automation for home-service businesses">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+<meta property="article:modified_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
+<meta property="article:author" content="Westyn Hilliard">
+<meta name="author" content="Westyn Hilliard">
+<meta name="theme-color" content="#10263F">
 <meta name="geo.placename" content="Knoxville">
 <meta name="geo.region" content="US-TN">
 <script type="application/ld+json">
@@ -48,9 +58,10 @@
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "url": "{{ page.url | absolute_url }}",
   "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}",
-  "author": { "@type": "Person", "@id": "https://www.knoxlinesystems.com/about.html#westyn", "name": "Westyn Hilliard", "url": "{{ '/about.html' | absolute_url }}" },{% if page.topic %}
+  "author": { "@type": "Person", "@id": "https://www.knoxlinesystems.com/about.html#westyn", "name": "Westyn Hilliard", "url": "{{ '/about.html' | absolute_url }}", "jobTitle": "Founder & Principal", "sameAs": ["https://www.linkedin.com/in/westynhilliard/"] },{% if page.topic %}
   "articleSection": {{ page.topic | jsonify }},{% endif %}
-  "publisher": { "@id": "https://www.knoxlinesystems.com/#business" },
+  "publisher": { "@type": "Organization", "@id": "https://www.knoxlinesystems.com/#business", "name": "Knoxline Systems", "url": "https://www.knoxlinesystems.com/", "logo": { "@type": "ImageObject", "url": "https://www.knoxlinesystems.com/assets/favicon-512.png", "width": 512, "height": 512 } },
+  "inLanguage": "en-US",
   "mainEntityOfPage": "{{ page.url | absolute_url }}",
   "isPartOf": { "@type": "Blog", "@id": "{{ '/blog.html' | absolute_url }}", "name": "Knoxline Systems Field Notes" }
 }
