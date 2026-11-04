@@ -5,8 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script>(function(){var d=0;function l(){if(d)return;d=1;var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-SXRLYXPJ7D';document.head.appendChild(s)}['scroll','pointerdown','keydown','touchstart'].forEach(function(e){addEventListener(e,l,{once:true,passive:true})});addEventListener('load',function(){setTimeout(l,3000)})})();</script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-SXRLYXPJ7D');</script>
-<title>{{ page.title }} | Knoxline Systems</title>
-<meta name="description" content="{{ page.description | escape }}">
+{%- assign seo_t = page.seo_title | default: page.title -%}
+{%- assign t_full = seo_t | append: " | Knoxline Systems" -%}
+{%- assign t_short = seo_t | append: " | Knoxline" -%}
+{%- assign seo_d = page.seo_description | default: page.description -%}
+<title>{% if t_full.size <= 60 %}{{ t_full | escape }}{% elsif t_short.size <= 60 %}{{ t_short | escape }}{% else %}{{ seo_t | escape }}{% endif %}</title>
+<meta name="description" content="{{ seo_d | escape }}">
 <link rel="preload" href="/assets/fonts/big-shoulders-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/public-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/style.css">
@@ -20,7 +24,7 @@
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Knoxline Systems">
 <meta property="og:title" content="{{ page.title | escape }}">
-<meta property="og:description" content="{{ page.description | escape }}">
+<meta property="og:description" content="{{ seo_d | escape }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/og-image.png' | absolute_url }}{% endif %}">
 <meta property="og:image:width" content="1200">
