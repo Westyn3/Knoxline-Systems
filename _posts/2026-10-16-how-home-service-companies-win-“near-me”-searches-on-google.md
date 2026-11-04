@@ -1,5 +1,6 @@
 ---
 title: How Home-Service Companies Win “Near Me” Searches on Google
+seo_description: "How a fast website, an optimized Google Business Profile and steady reviews work together to win 'near me' searches for roofers, septic, HVAC and more."
 description: When homeowners need a roofer, septic company, plumber, or HVAC technician, they often call one of the first businesses they find on Google. Learn how a fast website, optimized Google Business Profile, and consistent customer reviews work together to improve local visibility.
 topic: Home-Service Websites · Local SEO · Google Business Profile
 date: 2026-10-16T08:00:00-04:00

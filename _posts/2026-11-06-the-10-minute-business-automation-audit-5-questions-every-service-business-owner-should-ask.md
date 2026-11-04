@@ -1,5 +1,7 @@
 ---
 title: 'The 10-Minute Business Automation Audit: 5 Questions Every Service-Business Owner Should Ask'
+seo_description: "How much of your week is work your software could do? A five-question audit to find automation wins in payroll, follow-up, reviews and reporting."
+seo_title: "The 10-Minute Business Automation Audit: 5 Questions"
 description: How much of your week is spent doing work your software could handle automatically? Use this five-question back-office audit to find opportunities in payroll, customer follow-up, reviews, reporting, and duplicate data entry.
 topic: Business Automation · Workflow Automation · Service Businesses
 date: 2026-11-06T08:00:00-04:00
