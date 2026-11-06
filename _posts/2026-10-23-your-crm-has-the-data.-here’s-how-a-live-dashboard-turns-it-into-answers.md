@@ -10,15 +10,15 @@ image: ''
 
 Ask a service-business owner a few simple questions:
 
-\*\*How much cash did we collect this month?\*\*
+**How much cash did we collect this month?**
 
-\*\*Which location is actually performing better?\*\*
+**Which location is actually performing better?**
 
-\*\*Which sales rep closes the most jobs?\*\*
+**Which sales rep closes the most jobs?**
 
-\*\*What does it cost us to acquire a job?\*\*
+**What does it cost us to acquire a job?**
 
-\*\*Are we ahead of where we were this time last year?\*\*
+**Are we ahead of where we were this time last year?**
 
 These aren't complicated questions.
 
@@ -56,7 +56,7 @@ Customers, locations, dates, statuses, and services are all sitting there.
 
 The problem isn't a lack of data.
 
-\*\*The problem is turning that data into useful information without rebuilding the answer every time someone asks a question.\*\*
+**The problem is turning that data into useful information without rebuilding the answer every time someone asks a question.**
 
 That's what automated reporting and live business dashboards are designed to solve.
 
@@ -110,7 +110,7 @@ Those are operational functions.
 
 The owner is often asking a different set of questions.
 
-\*\*How is the company actually performing?\*\*
+**How is the company actually performing?**
 
 That's where built-in reporting can start to feel limiting.
 
@@ -128,25 +128,25 @@ There's a difference.
 
 A report might tell you:
 
-\*\*137 jobs were completed.\*\*
+**137 jobs were completed.**
 
 That's useful.
 
 But the owner might actually want to know:
 
-\*\*How much revenue did those jobs produce?\*\*
+**How much revenue did those jobs produce?**
 
-\*\*How much cash did we actually collect?\*\*
+**How much cash did we actually collect?**
 
-\*\*Which location produced the revenue?\*\*
+**Which location produced the revenue?**
 
-\*\*Which salesperson generated it?\*\*
+**Which salesperson generated it?**
 
-\*\*How much did we spend to acquire those customers?\*\*
+**How much did we spend to acquire those customers?**
 
-\*\*How does that compare with last month?\*\*
+**How does that compare with last month?**
 
-\*\*How does it compare with last year?\*\*
+**How does it compare with last year?**
 
 That's business intelligence.
 
@@ -204,17 +204,17 @@ A dashboard can automatically aggregate that information.
 
 The owner might want to see:
 
-\*\*Contracted revenue this month\*\*
+**Contracted revenue this month**
 
-\*\*Contracted revenue by location\*\*
+**Contracted revenue by location**
 
-\*\*Contracted revenue by salesperson\*\*
+**Contracted revenue by salesperson**
 
-\*\*Contracted revenue by service\*\*
+**Contracted revenue by service**
 
-\*\*Month-over-month change\*\*
+**Month-over-month change**
 
-\*\*Year-over-year trend\*\*
+**Year-over-year trend**
 
 Those views all originate from the same underlying data.
 
@@ -238,11 +238,11 @@ If management only looks at contracted revenue, the company may feel healthier t
 
 That's why a useful dashboard can separate metrics such as:
 
-\*\*Contracted revenue\*\*
+**Contracted revenue**
 
 from:
 
-\*\*Cash collected\*\*
+**Cash collected**
 
 Now the owner can understand both sales activity and actual cash movement.
 
@@ -274,11 +274,11 @@ What if one has substantially higher average job values?
 
 A useful dashboard lets management move beyond:
 
-\*\*"Which location sold more?"\*\*
+**"Which location sold more?"**
 
 and start asking:
 
-\*\*"Which location is actually performing better?"\*\*
+**"Which location is actually performing better?"**
 
 Depending on the available data, that can mean comparing:
 
@@ -344,13 +344,13 @@ If you're investing in Google Ads, lead services, referral programs, or other ma
 
 A reporting system can help connect marketing spend with business results so management can start asking:
 
-\*\*How much are we paying per lead?\*\*
+**How much are we paying per lead?**
 
-\*\*How much are we paying per booked job?\*\*
+**How much are we paying per booked job?**
 
-\*\*Which channel produces the best customers?\*\*
+**Which channel produces the best customers?**
 
-\*\*Which services are most profitable to advertise?\*\*
+**Which services are most profitable to advertise?**
 
 This is where operational data and marketing data become much more valuable when they're viewed together.
 
@@ -372,13 +372,13 @@ That's why we like giving owners a longer view.
 
 A twelve-month trend can quickly show whether the business is:
 
-\*\*growing,\*\*
+**growing,**
 
-\*\*flat,\*\*
+**flat,**
 
 or:
 
-\*\*moving in the wrong direction.\*\*
+**moving in the wrong direction.**
 
 The same principle applies to individual metrics.
 
@@ -414,19 +414,19 @@ Now, the owner can check both locations from a dashboard.
 
 From his phone, he can see the numbers that matter across:
 
-\*\*jobs,\*\*
+**jobs,**
 
-\*\*revenue,\*\*
+**revenue,**
 
-\*\*salespeople,\*\*
+**salespeople,**
 
 and:
 
-\*\*location performance.\*\*
+**location performance.**
 
 Instead of spending hours every month assembling the picture, he can open the dashboard and see it.
 
-That's the difference between a report and a reporting \*\*system\*\*.
+That's the difference between a report and a reporting **system**.
 
 A report has to be created.
 
@@ -476,11 +476,11 @@ Not charts.
 
 Instead of asking:
 
-\*\*"What visualizations should we build?"\*\*
+**"What visualizations should we build?"**
 
 we ask:
 
-\*\*"What decisions does the owner regularly need to make?"\*\*
+**"What decisions does the owner regularly need to make?"**
 
 Then we determine which data helps answer those questions.
 
@@ -508,7 +508,7 @@ The problem is when a spreadsheet becomes a recurring manual data pipeline.
 
 If someone has to:
 
-\*\*export → copy → paste → clean → calculate\*\*
+**export → copy → paste → clean → calculate**
 
 every week, that's where automation can help.
 
@@ -552,7 +552,7 @@ That report can be generated on a schedule and delivered automatically.
 
 No one has to remember:
 
-\*\*"It's the first of the month. I need to build the owner's report."\*\*
+**"It's the first of the month. I need to build the owner's report."**
 
 The system handles it.
 
@@ -562,7 +562,7 @@ Numbers without context create another problem.
 
 Suppose a report says:
 
-\*\*Cost per acquisition increased 18%.\*\*
+**Cost per acquisition increased 18%.**
 
 Okay.
 
@@ -580,13 +580,13 @@ That's why automated reports can include plain-English explanations alongside th
 
 Instead of simply showing metrics, the report can highlight:
 
-\*\*what changed,\*\*
+**what changed,**
 
-\*\*where it changed,\*\*
+**where it changed,**
 
 and:
 
-\*\*what management may want to investigate.\*\*
+**what management may want to investigate.**
 
 The goal isn't to replace the owner's judgment.
 
@@ -610,11 +610,11 @@ If one salesperson is having an exceptional month, management may want to unders
 
 Operational dashboards shorten the distance between:
 
-\*\*something happening\*\*
+**something happening**
 
 and:
 
-\*\*management knowing about it.\*\*
+**management knowing about it.**
 
 That's valuable.
 
@@ -682,19 +682,19 @@ JobNimbus may already contain information about:
 
 That information can potentially support dashboards around:
 
-\*\*contracted jobs,\*\*
+**contracted jobs,**
 
-\*\*revenue,\*\*
+**revenue,**
 
-\*\*sales rep performance,\*\*
+**sales rep performance,**
 
-\*\*location performance,\*\*
+**location performance,**
 
-\*\*payroll,\*\*
+**payroll,**
 
 and:
 
-\*\*management KPIs.\*\*
+**management KPIs.**
 
 The company doesn't need employees to recreate all of that information in a separate reporting system.
 
@@ -734,11 +734,11 @@ Knoxline Systems isn't tied to one CRM.
 
 The important questions are:
 
-\*\*Where does your data live?\*\*
+**Where does your data live?**
 
-\*\*Can we access it reliably?\*\*
+**Can we access it reliably?**
 
-\*\*What does management need to know?\*\*
+**What does management need to know?**
 
 Depending on the platform, information may be available through an API, scheduled exports, databases, integrations, or another method.
 
@@ -750,29 +750,29 @@ A dashboard is only valuable if it helps you run the company.
 
 For many service businesses, I'd start with questions like these:
 
-\*\*1. How much business are we actually doing?\*\*
+**1. How much business are we actually doing?**
 
 Contracted revenue, completed work, cash collected, or whichever measures best reflect the operation.
 
-\*\*2. Where is that business coming from?\*\*
+**2. Where is that business coming from?**
 
 Locations, salespeople, lead sources, services, or other relevant segments.
 
-\*\*3. What is changing?\*\*
+**3. What is changing?**
 
 Month-over-month and longer-term trends.
 
-\*\*4. What is it costing us?\*\*
+**4. What is it costing us?**
 
 Acquisition costs, marketing spend, or other costs the business can reliably connect to performance.
 
-\*\*5. Where should management pay attention?\*\*
+**5. Where should management pay attention?**
 
 The dashboard should make unusual changes or underperformance easier to identify.
 
 Those five questions are more useful than simply asking:
 
-\*\*"What charts should we put on the dashboard?"\*\*
+**"What charts should we put on the dashboard?"**
 
 ## If You Run the Business on Gut Feel, Start Here
 
@@ -784,13 +784,13 @@ But intuition works better when it's paired with reliable information.
 
 If you regularly say:
 
-\*\*"I think this location is doing better."\*\*
+**"I think this location is doing better."**
 
-\*\*"It feels like we're spending more for leads."\*\*
+**"It feels like we're spending more for leads."**
 
-\*\*"I think this salesperson is our strongest."\*\*
+**"I think this salesperson is our strongest."**
 
-\*\*"It seems like cash has been slower this month."\*\*
+**"It seems like cash has been slower this month."**
 
 those are perfect candidates for measurement.
 
@@ -832,7 +832,7 @@ The specific metrics depend on your business.
 
 The principle doesn't:
 
-\*\*Enter the data once. Use it everywhere it matters.\*\*
+**Enter the data once. Use it everywhere it matters.**
 
 ## Your Numbers Shouldn't Take Hours to Find
 
@@ -854,7 +854,7 @@ That's what good reporting should do.
 
 Not give you more data.
 
-\*\*Give you the answer.\*\*
+**Give you the answer.**
 
 Learn more about [automated reporting and business dashboards](/automated-reporting.html), or [contact Knoxline Systems](/contact.html) and tell us which number takes you the longest to find.
 

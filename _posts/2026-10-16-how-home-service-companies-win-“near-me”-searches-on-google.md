@@ -17,17 +17,17 @@ And they start calling.
 
 For home-service companies, that makes searches like these incredibly valuable:
 
-\*\*"roofer near me"\*\*
+**"roofer near me"**
 
-\*\*"septic pumping near me"\*\*
+**"septic pumping near me"**
 
-\*\*"AC repair near me"\*\*
+**"AC repair near me"**
 
-\*\*"plumber near me"\*\*
+**"plumber near me"**
 
-\*\*"electrician near me"\*\*
+**"electrician near me"**
 
-\*\*"appliance repair near me"\*\*
+**"appliance repair near me"**
 
 The homeowner performing that search isn't casually researching something they might buy six months from now.
 
@@ -43,11 +43,11 @@ They're the companies Google can confidently understand, locate, and trust.
 
 For most home-service businesses, building that visibility starts with three things:
 
-\*\*A strong website.\*\*
+**A strong website.**
 
-\*\*A complete Google Business Profile.\*\*
+**A complete Google Business Profile.**
 
-\*\*A consistent stream of legitimate customer reviews.\*\*
+**A consistent stream of legitimate customer reviews.**
 
 You don't necessarily need to outspend every competitor in your market.
 
@@ -59,7 +59,7 @@ And in many local markets, that opportunity is bigger than contractors realize.
 
 Think about what Google is trying to accomplish when someone searches:
 
-\*\*"HVAC repair near me."\*\*
+**"HVAC repair near me."**
 
 Google isn't simply looking for a webpage containing the words "HVAC repair."
 
@@ -109,7 +109,7 @@ Reviews provide evidence that real customers have actually used your company.
 
 They also give a homeowner something your own marketing copy can't provide:
 
-\*\*other people's experiences with your business.\*\*
+**other people's experiences with your business.**
 
 These three pieces reinforce one another.
 
@@ -151,7 +151,7 @@ Clarity is valuable for both humans and search engines.
 
 The second question is:
 
-\*\*Where do you actually work?\*\*
+**Where do you actually work?**
 
 A contractor might be based in one town but serve customers across several surrounding communities.
 
@@ -163,7 +163,7 @@ That's not the kind of website strategy we're interested in.
 
 It means creating useful, accurate content that helps a potential customer determine:
 
-\*\*"Does this company actually come to my area?"\*\*
+**"Does this company actually come to my area?"**
 
 Your website should answer that question quickly.
 
@@ -183,13 +183,13 @@ They're on their phone.
 
 They want to know:
 
-\*\*Do you provide the service I need?\*\*
+**Do you provide the service I need?**
 
-\*\*Do you serve my location?\*\*
+**Do you serve my location?**
 
-\*\*Can I trust you?\*\*
+**Can I trust you?**
 
-\*\*How do I call you?\*\*
+**How do I call you?**
 
 A website that takes too long to load, has confusing navigation, or hides the phone number creates unnecessary friction.
 
@@ -239,17 +239,17 @@ Google displays local businesses.
 
 The customer sees:
 
-\*\*Company name.\*\*
+**Company name.**
 
-\*\*Rating.\*\*
+**Rating.**
 
-\*\*Review count.\*\*
+**Review count.**
 
-\*\*Photos.\*\*
+**Photos.**
 
-\*\*Phone number.\*\*
+**Phone number.**
 
-\*\*Business information.\*\*
+**Business information.**
 
 Then they may call directly from Google.
 
@@ -321,17 +321,17 @@ A homeowner may know nothing about your company.
 
 Then they see:
 
-\*\*4.9 stars.\*\*
+**4.9 stars.**
 
-\*\*Hundreds of customer reviews.\*\*
+**Hundreds of customer reviews.**
 
-\*\*Recent customers describing their experiences.\*\*
+**Recent customers describing their experiences.**
 
 That reduces uncertainty.
 
 The business isn't simply telling the customer:
 
-\*\*"We're great."\*\*
+**"We're great."**
 
 Previous customers are providing their own feedback.
 
@@ -373,7 +373,7 @@ The opportunity disappears.
 
 Then the owner says:
 
-\*\*"We really need to start getting more Google reviews."\*\*
+**"We really need to start getting more Google reviews."**
 
 Three months later, the same conversation happens again.
 
@@ -507,15 +507,15 @@ It needs to answer the right questions.
 
 At minimum, a potential customer should quickly understand:
 
-\*\*Who are you?\*\*
+**Who are you?**
 
-\*\*What do you do?\*\*
+**What do you do?**
 
-\*\*Where do you work?\*\*
+**Where do you work?**
 
-\*\*Why should I trust you?\*\*
+**Why should I trust you?**
 
-\*\*How do I contact you?\*\*
+**How do I contact you?**
 
 From there, the site can be structured around the actual business.
 
@@ -557,19 +557,19 @@ The real objective is generating business.
 
 That's why we care about questions like:
 
-\*\*How many calls are coming from organic search?\*\*
+**How many calls are coming from organic search?**
 
-\*\*How many website inquiries are being submitted?\*\*
+**How many website inquiries are being submitted?**
 
-\*\*Which services are generating interest?\*\*
+**Which services are generating interest?**
 
-\*\*Which pages are actually bringing people into the business?\*\*
+**Which pages are actually bringing people into the business?**
 
-\*\*Are those leads turning into real jobs?\*\*
+**Are those leads turning into real jobs?**
 
 SEO reporting shouldn't stop at:
 
-\*\*"You moved from position 7 to position 4."\*\*
+**"You moved from position 7 to position 4."**
 
 That's useful information.
 
@@ -587,15 +587,15 @@ Very little ability for a stranger searching Google to discover the company.
 
 We built the foundation around the same principles discussed here:
 
-\*\*A fast website structured around the actual services and service area.\*\*
+**A fast website structured around the actual services and service area.**
 
-\*\*A managed Google Business Profile.\*\*
+**A managed Google Business Profile.**
 
-\*\*A consistent customer review process.\*\*
+**A consistent customer review process.**
 
 Over time, the system compounded.
 
-ALLCON grew to \*\*247 Google reviews with a 4.9-star rating\*\* and began generating consistent organic inquiries and phone calls without relying on paid advertising for those leads.
+ALLCON grew to **247 Google reviews with a 4.9-star rating** and began generating consistent organic inquiries and phone calls without relying on paid advertising for those leads.
 
 The business was already capable of doing excellent work.
 
@@ -639,7 +639,7 @@ They already need it.
 
 The question is:
 
-\*\*Which company will they call?\*\*
+**Which company will they call?**
 
 Strong local visibility puts your business into that decision.
 
@@ -669,7 +669,7 @@ Don't search for your company name.
 
 Of course you should appear for that.
 
-Instead, search the way someone who has \*\*never heard of you\*\* would search.
+Instead, search the way someone who has **never heard of you** would search.
 
 Try your primary service plus your city.
 
@@ -727,7 +727,7 @@ We don't want to build a contractor a website that sits on the internet and does
 
 The website should be part of a larger system.
 
-\*\*Website → Google visibility → customer trust → inquiry → completed job → review → stronger online reputation\*\*
+**Website → Google visibility → customer trust → inquiry → completed job → review → stronger online reputation**
 
 That's a cycle.
 
@@ -789,7 +789,7 @@ But you can control whether you've built a strong enough digital presence to com
 
 You don't necessarily need to outspend everyone.
 
-\*\*You need to out-structure them.\*\*
+**You need to out-structure them.**
 
 Start with a [website built for a home-service business](/websites.html), or [contact Knoxline Systems](/contact.html) and we'll take a look at what customers currently see when they search for your services.
 

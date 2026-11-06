@@ -24,9 +24,9 @@ There was virtually no Google search presence.
 
 And there wasn't a system consistently turning satisfied customers into online reviews.
 
-Today, ALLCON has \*\*247 Google reviews with a 4.9-star rating\*\*, generates \*\*more than five website inquiries per month\*\*, and receives roughly \*\*10 additional organic phone calls per month from customers finding the company through Google\*\*.
+Today, ALLCON has **247 Google reviews with a 4.9-star rating**, generates **more than five website inquiries per month**, and receives roughly **10 additional organic phone calls per month from customers finding the company through Google**.
 
-And that growth has happened \*\*without spending money on paid ads\*\*.
+And that growth has happened **without spending money on paid ads**.
 
 There wasn't one SEO trick that suddenly changed everything.
 
@@ -46,13 +46,13 @@ They pull out their phone.
 
 They search something like:
 
-\*\*"septic pumping near me"\*\*
+**"septic pumping near me"**
 
-\*\*"septic company near me"\*\*
+**"septic company near me"**
 
-\*\*"septic tank pumping [city]"\*\*
+**"septic tank pumping [city]"**
 
-\*\*"septic repair near me"\*\*
+**"septic repair near me"**
 
 Then they look at the companies Google puts in front of them.
 
@@ -64,7 +64,7 @@ They don't know you exist.
 
 For ALLCON, the first objective wasn't complicated:
 
-\*\*Make it possible for local homeowners searching for septic services to actually find the business.\*\*
+**Make it possible for local homeowners searching for septic services to actually find the business.**
 
 ## Starting With Almost No Digital Presence
 
@@ -78,11 +78,11 @@ Instead of trying to repair years of inconsistent pages, outdated content, confu
 
 We focused on three pieces:
 
-\*\*The website.\*\*
+**The website.**
 
-\*\*The Google Business Profile.\*\*
+**The Google Business Profile.**
 
-\*\*The review system.\*\*
+**The review system.**
 
 Each one supports the others.
 
@@ -100,11 +100,11 @@ A home-service website shouldn't just be an online brochure.
 
 It should help both customers and search engines quickly understand three things:
 
-\*\*What do you do?\*\*
+**What do you do?**
 
-\*\*Where do you do it?\*\*
+**Where do you do it?**
 
-\*\*Why should someone trust you?\*\*
+**Why should someone trust you?**
 
 For ALLCON, that meant structuring the website around the actual services the company provides and the geographic area it serves.
 
@@ -170,7 +170,7 @@ The goal is consistency.
 
 When Google encounters the business across its website, profile, reviews, and other signals, it should receive a clear picture of:
 
-\*\*who the company is, what it does, and where it operates.\*\*
+**who the company is, what it does, and where it operates.**
 
 ## Step 3: Turn Happy Customers Into Google Reviews
 
@@ -178,11 +178,11 @@ This became one of the most important pieces of ALLCON's growth.
 
 Today, the company has:
 
-\*\*247 Google reviews.\*\*
+**247 Google reviews.**
 
 And maintains a:
 
-\*\*4.9-star rating.\*\*
+**4.9-star rating.**
 
 That matters for more than one reason.
 
@@ -218,7 +218,7 @@ Someone intends to ask for a review later.
 
 Nobody does.
 
-That's why we prefer building a \*\*review process\*\*, not simply telling a business to ask more often.
+That's why we prefer building a **review process**, not simply telling a business to ask more often.
 
 The best time to ask is when the customer has just experienced the result.
 
@@ -266,7 +266,7 @@ They're the result of building a system and consistently using it.
 
 Search visibility only matters if it ultimately produces business.
 
-Today, ALLCON generates \*\*more than five website inquiries per month\*\*.
+Today, ALLCON generates **more than five website inquiries per month**.
 
 These are potential customers reaching the business through the web presence that previously didn't exist.
 
@@ -278,11 +278,11 @@ They're searching because they have a need.
 
 ## Roughly 10 Organic Calls Per Month From Google
 
-The business also receives roughly \*\*10 organic phone calls per month\*\* from customers who find ALLCON through Google.
+The business also receives roughly **10 organic phone calls per month** from customers who find ALLCON through Google.
 
 That's important because not every local-search customer visits the website.
 
-Many people search Google, see the company's business profile, look at the rating, and tap \*\*Call\*\*.
+Many people search Google, see the company's business profile, look at the rating, and tap **Call**.
 
 The website and Google Business Profile therefore aren't competing channels.
 
@@ -328,7 +328,7 @@ But you're investing in an asset rather than simply renting every customer inter
 
 ## What Does 15 Organic Leads a Month Actually Mean?
 
-Between approximately 10 organic calls and 5+ website inquiries, ALLCON is generating roughly \*\*15 or more inbound opportunities per month\*\* through its online presence.
+Between approximately 10 organic calls and 5+ website inquiries, ALLCON is generating roughly **15 or more inbound opportunities per month** through its online presence.
 
 Not every inquiry becomes a job.
 
@@ -338,7 +338,7 @@ But consider the annual impact.
 
 At 15 opportunities per month, that's approximately:
 
-\*\*180 inbound opportunities per year.\*\*
+**180 inbound opportunities per year.**
 
 For a business that once had almost no way for someone unfamiliar with the company to discover it online, that's a meaningful change.
 
@@ -354,7 +354,7 @@ Together, they reinforce each other.
 
 A homeowner might discover ALLCON in Google Maps because of its local visibility.
 
-The \*\*4.9-star rating and 247 reviews\*\* establish credibility.
+The **4.9-star rating and 247 reviews** establish credibility.
 
 Then the homeowner visits the website.
 
@@ -362,7 +362,7 @@ The website confirms the company provides the service they need and serves their
 
 Now the customer has both:
 
-\*\*Trust + information.\*\*
+**Trust + information.**
 
 That's a much stronger customer journey than simply having a website sitting somewhere on the internet.
 
@@ -374,7 +374,7 @@ For local service businesses, many of the fundamentals are surprisingly practica
 
 Google is trying to answer a customer's question:
 
-\*\*Which business is most likely to help this person?\*\*
+**Which business is most likely to help this person?**
 
 So we want to make the answer clear.
 
@@ -462,11 +462,11 @@ Search for your actual service.
 
 Try:
 
-\*\*"[your service] near me"\*\*
+**"[your service] near me"**
 
 or:
 
-\*\*"[your service] [your city]"\*\*
+**"[your service] [your city]"**
 
 Then look at what the customer sees.
 
@@ -498,15 +498,15 @@ Then we kept doing the work.
 
 Today, the result is:
 
-\*\*247 Google reviews.\*\*
+**247 Google reviews.**
 
-\*\*4.9 stars.\*\*
+**4.9 stars.**
 
-\*\*5+ website inquiries per month.\*\*
+**5+ website inquiries per month.**
 
-\*\*Roughly 10 organic Google calls per month.\*\*
+**Roughly 10 organic Google calls per month.**
 
-\*\*$0 in paid advertising required to generate those organic leads.\*\*
+**$0 in paid advertising required to generate those organic leads.**
 
 The business was already good at what it did.
 

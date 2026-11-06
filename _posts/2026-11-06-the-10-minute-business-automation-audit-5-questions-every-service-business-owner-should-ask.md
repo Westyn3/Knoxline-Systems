@@ -18,7 +18,7 @@ That's the idea behind this 10-minute back-office audit.
 
 If you own a roofing company, HVAC business, septic company, plumbing company, appliance repair business, coaching company, or another service business, grab a coffee and answer five questions honestly.
 
-Don't think about what the process is \*supposed\* to look like.
+Don't think about what the process is *supposed* to look like.
 
 Think about what actually happened the last time your team did it.
 
@@ -26,21 +26,21 @@ Think about what actually happened the last time your team did it.
 
 Here are the five questions.
 
-\*\*1. How many hours did your last payroll take—and did a human do math a system already knew how to do?\*\*
+**1. How many hours did your last payroll take—and did a human do math a system already knew how to do?**
 
-\*\*2. When a job closes, does a review request go out automatically—or only when someone remembers?\*\*
+**2. When a job closes, does a review request go out automatically—or only when someone remembers?**
 
-\*\*3. Can you see this month's revenue, jobs, and best-performing rep right now, from your phone?\*\*
+**3. Can you see this month's revenue, jobs, and best-performing rep right now, from your phone?**
 
-\*\*4. Do new customers receive a consistent follow-up sequence—or whatever your team had time for that day?\*\*
+**4. Do new customers receive a consistent follow-up sequence—or whatever your team had time for that day?**
 
-\*\*5. How many places does the same job get typed in twice?\*\*
+**5. How many places does the same job get typed in twice?**
 
 That's the entire audit.
 
 And the scoring is simple:
 
-\*\*Give yourself one point for every answer that made you wince.\*\*
+**Give yourself one point for every answer that made you wince.**
 
 ### 0–1 points: Your systems are probably in pretty good shape.
 
@@ -90,7 +90,7 @@ Did someone:
 
 Now ask the more important question:
 
-\*\*How much of the information used in those calculations already existed somewhere else?\*\*
+**How much of the information used in those calculations already existed somewhere else?**
 
 For a roofing company using JobNimbus, the CRM may already know which jobs belong to which salesperson.
 
@@ -106,15 +106,15 @@ Payroll is particularly interesting because much of the preparation is often gov
 
 If:
 
-\*\*this job belongs to this salesperson,\*\*
+**this job belongs to this salesperson,**
 
 and:
 
-\*\*this compensation rule applies,\*\*
+**this compensation rule applies,**
 
 then:
 
-\*\*calculate this amount.\*\*
+**calculate this amount.**
 
 Computers are very good at repeatable rules.
 
@@ -124,11 +124,11 @@ That's why we like payroll workflows where the system handles the preparation an
 
 The goal isn't:
 
-\*\*"Nobody checks payroll."\*\*
+**"Nobody checks payroll."**
 
 The goal is:
 
-\*\*"Nobody spends six hours building something they could spend 20 minutes reviewing."\*\*
+**"Nobody spends six hours building something they could spend 20 minutes reviewing."**
 
 ## A Real Roofing Payroll Example
 
@@ -140,7 +140,7 @@ The information was already coming from the company's JobNimbus workflow.
 
 But every pay period still required roughly:
 
-\*\*6–8 hours of manual work.\*\*
+**6–8 hours of manual work.**
 
 We built a payroll system around the JobNimbus data and the company's actual compensation rules.
 
@@ -152,7 +152,7 @@ That's a very different process.
 
 The value isn't just saving time once.
 
-It's saving that time \*\*every pay period\*\*.
+It's saving that time **every pay period**.
 
 ## Calculate the Annual Cost of a "Small" Manual Process
 
@@ -164,11 +164,11 @@ That's 26 payroll cycles per year.
 
 You're looking at:
 
-\*\*156 hours every year.\*\*
+**156 hours every year.**
 
 At eight hours per pay period:
 
-\*\*208 hours every year.\*\*
+**208 hours every year.**
 
 That's roughly four to five 40-hour workweeks.
 
@@ -204,15 +204,15 @@ This matters particularly for local service businesses.
 
 When a homeowner searches:
 
-\*\*"roofer near me"\*\*
+**"roofer near me"**
 
 or:
 
-\*\*"septic pumping near me"\*\*
+**"septic pumping near me"**
 
 or:
 
-\*\*"AC repair near me,"\*\*
+**"AC repair near me,"**
 
 reviews can play a major role in which business they decide to contact.
 
@@ -232,11 +232,11 @@ That status change can become a trigger.
 
 Instead of:
 
-\*\*Job completed → employee remembers → maybe customer gets a review request\*\*
+**Job completed → employee remembers → maybe customer gets a review request**
 
 you can build:
 
-\*\*Job completed → review workflow begins\*\*
+**Job completed → review workflow begins**
 
 The exact workflow should fit the business and platform, but the principle is straightforward.
 
@@ -258,7 +258,7 @@ Eventually, a competitor isn't comparing its 12 reviews with your 20.
 
 It's comparing 12 with your 200.
 
-One of our septic and grading clients grew from virtually no digital presence to \*\*247 Google reviews at a 4.9-star rating\*\* while building a consistent local visibility and review process.
+One of our septic and grading clients grew from virtually no digital presence to **247 Google reviews at a 4.9-star rating** while building a consistent local visibility and review process.
 
 That wasn't one campaign.
 
@@ -270,17 +270,17 @@ Here's the test.
 
 Without asking an employee for anything and without opening Excel, can you tell me:
 
-\*\*How much revenue did you contract this month?\*\*
+**How much revenue did you contract this month?**
 
-\*\*How much cash did you collect?\*\*
+**How much cash did you collect?**
 
-\*\*How many jobs did you close?\*\*
+**How many jobs did you close?**
 
-\*\*Which salesperson is performing best?\*\*
+**Which salesperson is performing best?**
 
-\*\*Which location is doing better?\*\*
+**Which location is doing better?**
 
-\*\*How does this month compare with last month?\*\*
+**How does this month compare with last month?**
 
 If the answer is:
 
@@ -306,7 +306,7 @@ A CRM might show every job beautifully.
 
 The owner may want to know:
 
-\*\*Which location produced the most revenue at the lowest acquisition cost?\*\*
+**Which location produced the most revenue at the lowest acquisition cost?**
 
 That answer may require combining several pieces of information.
 
@@ -348,7 +348,7 @@ The information that once required recurring spreadsheet work is available at a 
 
 That's what a dashboard should do.
 
-\*\*Not give you more data. Give you faster answers.\*\*
+**Not give you more data. Give you faster answers.**
 
 ## 4. Does Every New Customer Get the Same Experience?
 
@@ -414,7 +414,7 @@ Retention could be analyzed systematically.
 
 During that evolution, the business grew from roughly:
 
-\*\*150 active clients to 350 active clients.\*\*
+**150 active clients to 350 active clients.**
 
 The important operational outcome was capacity.
 
@@ -424,13 +424,13 @@ Growth didn't have to create the same proportional increase in owner administrat
 
 Businesses sometimes think scalability means:
 
-\*\*"Can we get more customers?"\*\*
+**"Can we get more customers?"**
 
 That's only half the question.
 
 The other half is:
 
-\*\*"What happens if we actually get them?"\*\*
+**"What happens if we actually get them?"**
 
 If doubling the number of customers means doubling the owner's administrative workload, the business hasn't fully scaled.
 
@@ -472,7 +472,7 @@ By the time the job is finished, how many times has your team recreated informat
 
 Whenever we hear:
 
-\*\*"Then I copy this into..."\*\*
+**"Then I copy this into..."**
 
 we pay attention.
 
@@ -492,7 +492,7 @@ The technology depends on the situation.
 
 The principle doesn't:
 
-\*\*Data should be entered as few times as possible.\*\*
+**Data should be entered as few times as possible.**
 
 ## Your Employees Shouldn't Be APIs
 
@@ -554,7 +554,7 @@ Eventually, the business is significantly larger—but parts of the back office 
 
 That's normal.
 
-\*\*The business grew faster than the office did.\*\*
+**The business grew faster than the office did.**
 
 The solution isn't to criticize the old process.
 
@@ -618,27 +618,27 @@ Automation should create enough value to justify itself.
 
 A good automation candidate is usually:
 
-\*\*Repetitive\*\*
+**Repetitive**
 
 The process happens frequently.
 
-\*\*Predictable\*\*
+**Predictable**
 
 The steps follow reasonably consistent rules.
 
-\*\*Time-consuming\*\*
+**Time-consuming**
 
 People are spending meaningful time performing it.
 
-\*\*Data-driven\*\*
+**Data-driven**
 
 The information needed already exists somewhere accessible.
 
-\*\*Error-prone\*\*
+**Error-prone**
 
 Manual repetition creates opportunities for mistakes.
 
-\*\*Scalable\*\*
+**Scalable**
 
 The workload increases as the business grows.
 
@@ -650,13 +650,13 @@ You don't need a five-year digital-transformation roadmap.
 
 Start with the sentence your team says all the time.
 
-\*\*"Every Friday I have to..."\*\*
+**"Every Friday I have to..."**
 
-\*\*"Every time a job closes, we..."\*\*
+**"Every time a job closes, we..."**
 
-\*\*"At the end of every month, I spend three hours..."\*\*
+**"At the end of every month, I spend three hours..."**
 
-\*\*"I have to copy this from..."\*\*
+**"I have to copy this from..."**
 
 Those sentences are automation clues.
 
@@ -666,35 +666,35 @@ They're telling you where the friction is.
 
 For service businesses, common opportunities include:
 
-\*\*Payroll automation\*\*
+**Payroll automation**
 
 Use job, employee, session, or commission data already captured in operational systems to prepare payroll calculations.
 
-\*\*Review automation\*\*
+**Review automation**
 
 Use completed-job events to consistently trigger appropriate customer review workflows.
 
-\*\*Automated reporting\*\*
+**Automated reporting**
 
 Turn CRM and operational data into dashboards, KPI scorecards, and scheduled owner reports.
 
-\*\*Customer onboarding\*\*
+**Customer onboarding**
 
 Trigger welcome information, forms, notifications, scheduling steps, and follow-up sequences from a new customer event.
 
-\*\*CRM integration\*\*
+**CRM integration**
 
 Connect systems so information can flow between them without duplicate entry.
 
-\*\*Commission automation\*\*
+**Commission automation**
 
 Apply repeatable compensation rules to job and sales data.
 
-\*\*Internal notifications\*\*
+**Internal notifications**
 
 Alert the right employee when a business event requires attention.
 
-\*\*Data synchronization\*\*
+**Data synchronization**
 
 Keep important information consistent across multiple systems.
 
@@ -706,7 +706,7 @@ This is another misconception we run into.
 
 Business automation doesn't necessarily mean:
 
-\*\*"Throw everything away and start over."\*\*
+**"Throw everything away and start over."**
 
 Usually, we'd rather understand what you're already using.
 
@@ -732,7 +732,7 @@ If the core software works for your team, that's valuable.
 
 The question becomes:
 
-\*\*How can we make the tools you already have work together better?\*\*
+**How can we make the tools you already have work together better?**
 
 Sometimes the best system is built on top of what the company already knows.
 
@@ -788,7 +788,7 @@ Those may make more sense as recurring work.
 
 And sometimes we look at a problem and realize:
 
-\*\*You don't need us to build anything.\*\*
+**You don't need us to build anything.**
 
 Maybe there's already a setting in your CRM.
 
@@ -828,7 +828,7 @@ The best automation doesn't necessarily feel futuristic.
 
 It just makes you wonder:
 
-\*\*"Why were we doing that manually for so long?"\*\*
+**"Why were we doing that manually for so long?"**
 
 ## Take the Audit Again Six Months From Now
 
@@ -884,7 +884,7 @@ Your business is generating data all day.
 
 The opportunity is using that information to trigger the next step instead of asking a person to start from scratch.
 
-\*\*Enter it once. Let it work everywhere it needs to.\*\*
+**Enter it once. Let it work everywhere it needs to.**
 
 ## Business Automation for Service Companies
 
@@ -930,15 +930,15 @@ Then we figure out the simplest reasonable way to improve it.
 
 Go back to the audit one last time.
 
-\*\*Payroll.\*\*
+**Payroll.**
 
-\*\*Reviews.\*\*
+**Reviews.**
 
-\*\*Reporting.\*\*
+**Reporting.**
 
-\*\*Customer follow-up.\*\*
+**Customer follow-up.**
 
-\*\*Duplicate data entry.\*\*
+**Duplicate data entry.**
 
 If three or more made you wince, pick the worst one.
 

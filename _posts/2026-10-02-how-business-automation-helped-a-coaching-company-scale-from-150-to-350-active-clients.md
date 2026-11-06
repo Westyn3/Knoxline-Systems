@@ -30,7 +30,7 @@ Eventually, the business reaches a point where bringing in another 50 clients do
 
 It means more work every night.
 
-That's the operational problem we worked on with \*\*Liv Hill Nutrition & Wellness Coaching\*\*.
+That's the operational problem we worked on with **Liv Hill Nutrition & Wellness Coaching**.
 
 The company already had a platform—Wodify—and it already contained much of the information needed to run the business.
 
@@ -38,7 +38,7 @@ What was missing was the system around it.
 
 We connected and automated those processes so information entered during normal operations could drive onboarding, coach payroll, management reporting, and retention analysis.
 
-During that growth, the business went from roughly \*\*150 active clients to 350 active clients\*\*.
+During that growth, the business went from roughly **150 active clients to 350 active clients**.
 
 More than double the client base.
 
@@ -76,7 +76,7 @@ When a business reaches this stage, hiring another administrative employee isn't
 
 Sometimes the first question should be:
 
-\*\*Which of these tasks actually require a person?\*\*
+**Which of these tasks actually require a person?**
 
 ## The Data Already Existed in Wodify
 
@@ -138,7 +138,7 @@ For Liv Hill Nutrition, we built the workflow so the onboarding process could be
 
 Instead of the owner having to remember:
 
-\*\*"I need to send that onboarding email."\*\*
+**"I need to send that onboarding email."**
 
 the system already knows a new client signed up.
 
@@ -166,7 +166,7 @@ Automation can handle the repetitive administrative steps so coaches and owners 
 
 That's a theme you'll see throughout good business automation:
 
-\*\*Automate the administration, not the relationship.\*\*
+**Automate the administration, not the relationship.**
 
 ## Automating Coach Payroll From Actual Sessions
 
@@ -202,13 +202,13 @@ This is one of our favorite ways to think about payroll automation.
 
 The goal isn't necessarily:
 
-\*\*"Remove humans from payroll."\*\*
+**"Remove humans from payroll."**
 
 Payroll is important. Human review is valuable.
 
 The better goal is:
 
-\*\*Move the human to the end of the process.\*\*
+**Move the human to the end of the process.**
 
 Instead of spending hours collecting information, entering values, applying calculations, and reconciling everything before finally reviewing payroll, the system handles the repeatable preparation.
 
@@ -282,11 +282,11 @@ The problem is that churn is easy to discuss vaguely.
 
 Owners hear things like:
 
-\*\*"People seem to be leaving because of price."\*\*
+**"People seem to be leaving because of price."**
 
 or:
 
-\*\*"I think clients who don't engage early are more likely to cancel."\*\*
+**"I think clients who don't engage early are more likely to cancel."**
 
 Maybe that's true.
 
@@ -316,11 +316,11 @@ Instead of treating every cancellation as an isolated event, the business can lo
 
 That changes retention from:
 
-\*\*a feeling\*\*
+**a feeling**
 
 into:
 
-\*\*a measurable business process.\*\*
+**a measurable business process.**
 
 And once something is measurable, it becomes much easier to improve.
 
@@ -348,11 +348,11 @@ The better the company understands its client lifecycle, the better it can ident
 
 During this evolution, Liv Hill Nutrition grew from approximately:
 
-\*\*150 active clients\*\*
+**150 active clients**
 
 to:
 
-\*\*350 active clients.\*\*
+**350 active clients.**
 
 That's more than doubling the active client base.
 
@@ -368,7 +368,7 @@ Customer experience matters.
 
 The value of the operational systems was different:
 
-\*\*They created capacity.\*\*
+**They created capacity.**
 
 The business could support substantially more clients without requiring every additional client to create another pile of administrative work for the owner.
 
@@ -410,7 +410,7 @@ Think about two possible growth models.
 
 In the first:
 
-\*\*More clients → more admin → more owner hours.\*\*
+**More clients → more admin → more owner hours.**
 
 Every time the company grows, administrative work grows with it.
 
@@ -418,7 +418,7 @@ Eventually, the owner becomes the bottleneck.
 
 In the second:
 
-\*\*More clients → automated processes handle more volume → owner workload stays manageable.\*\*
+**More clients → automated processes handle more volume → owner workload stays manageable.**
 
 That doesn't mean administrative work disappears.
 
@@ -434,19 +434,19 @@ For businesses already using Wodify, there may be significantly more value in th
 
 The information inside the platform can potentially support workflows around:
 
-\*\*Client onboarding\*\*
+**Client onboarding**
 
-\*\*Coach payroll\*\*
+**Coach payroll**
 
-\*\*Business reporting\*\*
+**Business reporting**
 
-\*\*Retention analysis\*\*
+**Retention analysis**
 
-\*\*Management dashboards\*\*
+**Management dashboards**
 
-\*\*Operational KPIs\*\*
+**Operational KPIs**
 
-\*\*Client communication\*\*
+**Client communication**
 
 The exact solution depends on how the company operates.
 
@@ -500,23 +500,23 @@ You may not need a complicated technology overhaul.
 
 But there are some obvious signs that the operational side of the business deserves attention.
 
-\*\*1. New clients require several manual emails or administrative steps.\*\*
+**1. New clients require several manual emails or administrative steps.**
 
 If someone has to remember the same sequence every time a client joins, that sequence may be automatable.
 
-\*\*2. Payroll requires rebuilding a spreadsheet every pay period.\*\*
+**2. Payroll requires rebuilding a spreadsheet every pay period.**
 
 If the source data already exists elsewhere, the spreadsheet shouldn't require hours of manual preparation.
 
-\*\*3. You can't quickly answer basic questions about the business.\*\*
+**3. You can't quickly answer basic questions about the business.**
 
 Active clients, churn, retention, coach capacity, and other important KPIs shouldn't require an afternoon of calculations.
 
-\*\*4. Client cancellations are tracked informally.\*\*
+**4. Client cancellations are tracked informally.**
 
 If retention matters to the business model, cancellation data should be structured enough to analyze.
 
-\*\*5. Growth is making the owner's life worse.\*\*
+**5. Growth is making the owner's life worse.**
 
 This may be the biggest one.
 
@@ -586,7 +586,7 @@ It wasn't even the dashboard.
 
 It was capacity.
 
-Liv Hill Nutrition grew from roughly \*\*150 to 350 active clients\*\* while building systems capable of supporting a larger operation.
+Liv Hill Nutrition grew from roughly **150 to 350 active clients** while building systems capable of supporting a larger operation.
 
 New-client onboarding could happen automatically.
 
@@ -602,7 +602,7 @@ That's what we want automation to accomplish.
 
 Not more technology.
 
-\*\*More capacity.\*\*
+**More capacity.**
 
 If you run a gym, studio, nutrition practice, or coaching business and growth keeps creating more administrative work, learn more about [automation for coaching businesses](/coaching.html).
 

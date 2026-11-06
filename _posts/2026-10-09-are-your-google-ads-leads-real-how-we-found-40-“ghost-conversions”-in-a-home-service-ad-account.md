@@ -14,7 +14,7 @@ That sounds great.
 
 But here's the question that matters:
 
-\*\*What exactly was a conversion?\*\*
+**What exactly was a conversion?**
 
 Was it a phone call from a homeowner ready to book a $500 repair?
 
@@ -24,7 +24,7 @@ Or did someone accidentally tap your location on Google Maps?
 
 Those actions can look surprisingly similar inside an advertising report if conversion tracking isn't configured correctly.
 
-That's exactly what we found when we audited the Google Ads account for \*\*Appliance Tech Pros\*\*, an appliance repair company in Georgia.
+That's exactly what we found when we audited the Google Ads account for **Appliance Tech Pros**, an appliance repair company in Georgia.
 
 On the surface, the account looked healthy.
 
@@ -34,7 +34,7 @@ The business appeared to be generating a steady flow of leads.
 
 But when we audited what those conversions actually represented, the story changed.
 
-\*\*Nearly 40% of the reported conversions were what we call "ghost conversions"—actions such as map interactions and direction clicks being counted alongside actual leads.\*\*
+**Nearly 40% of the reported conversions were what we call "ghost conversions"—actions such as map interactions and direction clicks being counted alongside actual leads.**
 
 The company wasn't necessarily getting the lead volume the dashboard suggested.
 
@@ -44,7 +44,7 @@ We also found keywords that hadn't generated a meaningful result in months, irre
 
 So we rebuilt the account around a much simpler principle:
 
-\*\*A lead should be a lead.\*\*
+**A lead should be a lead.**
 
 Here's what we changed.
 
@@ -88,9 +88,9 @@ But we didn't want to know how many conversions Google reported.
 
 We wanted to know:
 
-\*\*What happened after someone clicked the ad?\*\*
+**What happened after someone clicked the ad?**
 
-Once we audited the conversion setup, we discovered that nearly \*\*40% of the reported conversions weren't the kind of leads the owner thought they were paying for.\*\*
+Once we audited the conversion setup, we discovered that nearly **40% of the reported conversions weren't the kind of leads the owner thought they were paying for.**
 
 They were largely interactions such as accidental map taps and direction clicks being included in the conversion totals.
 
@@ -98,11 +98,11 @@ That's a huge distinction.
 
 Imagine an owner receives a monthly report showing:
 
-\*\*50 conversions\*\*
+**50 conversions**
 
 Naturally, they interpret that as something close to:
 
-\*\*50 leads\*\*
+**50 leads**
 
 But if a significant portion of those conversions aren't calls, bookings, or genuine inquiries, the owner is making decisions based on an inflated number.
 
@@ -110,7 +110,7 @@ The dashboard isn't necessarily technically incorrect.
 
 It's answering the question it was configured to answer.
 
-The problem is that it may be answering the \*\*wrong business question\*\*.
+The problem is that it may be answering the **wrong business question**.
 
 ## Why Bad Conversion Tracking Is So Dangerous
 
@@ -122,7 +122,7 @@ Google Ads relies heavily on conversion data to understand which searches, ads, 
 
 If the account tells Google:
 
-\*\*"This action is valuable to my business,"\*\*
+**"This action is valuable to my business,"**
 
 Google can use that information when optimizing campaigns.
 
@@ -140,7 +140,7 @@ So imagine you're feeding the platform a mixture of:
 
 You're no longer simply measuring bad data.
 
-You may be \*\*optimizing around bad data\*\*.
+You may be **optimizing around bad data**.
 
 That's why conversion tracking is one of the first things we look at during a Google Ads audit.
 
@@ -162,15 +162,15 @@ They call.
 
 For an appliance repair company, that search might be:
 
-\*\*"refrigerator repair near me"\*\*
+**"refrigerator repair near me"**
 
 or:
 
-\*\*"washer repair [city]"\*\*
+**"washer repair [city]"**
 
 or:
 
-\*\*"oven repair near me"\*\*
+**"oven repair near me"**
 
 If the customer taps the ad and calls the business, that's a meaningful action.
 
@@ -180,11 +180,11 @@ That's very different from someone tapping a map listing without ever contacting
 
 So for Appliance Tech Pros, we reworked conversion tracking around the actions that actually mattered.
 
-\*\*Real phone calls from advertising became the focus.\*\*
+**Real phone calls from advertising became the focus.**
 
 Now, when the owner looks at performance, the number is much closer to something they actually care about:
 
-\*\*How many opportunities did this advertising create for my business?\*\*
+**How many opportunities did this advertising create for my business?**
 
 ## We Found Keywords That Hadn't Produced a Call in a Year
 
@@ -194,7 +194,7 @@ We also reviewed where the advertising budget was actually going.
 
 Some keywords had continued consuming attention or budget despite failing to generate a phone call for an extended period.
 
-In some cases, \*\*a year or more\*\*.
+In some cases, **a year or more**.
 
 This is where Google Ads management needs to become business management rather than simply campaign management.
 
@@ -240,7 +240,7 @@ Which keyword would the owner rather buy?
 
 That's why we don't want to optimize home-service campaigns around vanity metrics.
 
-We care about what happens \*\*after the click\*\*.
+We care about what happens **after the click**.
 
 Impressions can be useful.
 
@@ -276,7 +276,7 @@ When we find searches that clearly aren't relevant to the business, they can be 
 
 The goal is simple:
 
-\*\*Stop paying for searches that cannot reasonably become the type of job the company wants.\*\*
+**Stop paying for searches that cannot reasonably become the type of job the company wants.**
 
 ## We Blocked the Junk
 
@@ -308,7 +308,7 @@ Google's platform changes.
 
 The account needs someone regularly asking:
 
-\*\*"Would we actually want to pay for this search?"\*\*
+**"Would we actually want to pay for this search?"**
 
 If the answer is no, it shouldn't quietly continue consuming budget.
 
@@ -342,11 +342,11 @@ That's an important shift.
 
 Instead of asking:
 
-\*\*"How can we get more Google Ads conversions?"\*\*
+**"How can we get more Google Ads conversions?"**
 
 we ask:
 
-\*\*"How can we use this budget to generate more of the jobs the business actually wants?"\*\*
+**"How can we use this budget to generate more of the jobs the business actually wants?"**
 
 Those are not the same question.
 
@@ -370,13 +370,13 @@ For service businesses, advertising should eventually connect to business econom
 
 We want to understand:
 
-\*\*What did we spend?\*\*
+**What did we spend?**
 
-\*\*How many real opportunities did we generate?\*\*
+**How many real opportunities did we generate?**
 
-\*\*What types of jobs did those opportunities represent?\*\*
+**What types of jobs did those opportunities represent?**
 
-\*\*Which campaigns produced work the company actually wants?\*\*
+**Which campaigns produced work the company actually wants?**
 
 That's a much more useful conversation than celebrating a high conversion count.
 
@@ -478,7 +478,7 @@ The optimization score may look impressive.
 
 But the owner has another source of information:
 
-\*\*the phone.\*\*
+**the phone.**
 
 If the advertising dashboard says lead volume is fantastic but the business doesn't feel like it's receiving that many customers, something deserves investigation.
 
@@ -492,11 +492,11 @@ If you currently advertise on Google, open your latest report.
 
 Find the number labeled:
 
-\*\*Conversions\*\*
+**Conversions**
 
 Then ask:
 
-\*\*"What exactly has to happen for Google to count one of these?"\*\*
+**"What exactly has to happen for Google to count one of these?"**
 
 Not what you assume happens.
 
@@ -540,7 +540,7 @@ Sometimes it initially makes the dashboard look worse.
 
 That's okay.
 
-\*\*We would rather have an ugly number that's true than a beautiful number that's meaningless.\*\*
+**We would rather have an ugly number that's true than a beautiful number that's meaningless.**
 
 Once the measurement is trustworthy, we can actually improve the account.
 
@@ -548,19 +548,19 @@ Once the measurement is trustworthy, we can actually improve the account.
 
 The rebuild focused on four core areas.
 
-\*\*First, we fixed conversion tracking.\*\*
+**First, we fixed conversion tracking.**
 
 The account needed to prioritize meaningful customer actions—especially real phone calls generated by advertising.
 
-\*\*Second, we paused dead weight.\*\*
+**Second, we paused dead weight.**
 
 Keywords that had repeatedly failed to produce results didn't deserve to keep receiving budget simply because they'd always been there.
 
-\*\*Third, we cleaned up search traffic.\*\*
+**Third, we cleaned up search traffic.**
 
 Irrelevant search terms were identified and blocked so more of the budget could go toward customers who could actually book a job.
 
-\*\*Fourth, we reorganized around valuable services.\*\*
+**Fourth, we reorganized around valuable services.**
 
 Campaign structure and budget decisions became more closely aligned with the types of jobs the company actually wanted.
 
@@ -606,7 +606,7 @@ Otherwise, it's very easy to spend money generating impressive-looking dashboard
 
 The lesson from this account wasn't that Google Ads didn't work.
 
-It was that \*\*measurement matters\*\*.
+It was that **measurement matters**.
 
 Appliance Tech Pros thought the account was generating dozens of leads.
 
@@ -628,11 +628,11 @@ That's what we believe Google Ads management should look like for a service busi
 
 Not:
 
-\*\*"Google says your optimization score is 92%."\*\*
+**"Google says your optimization score is 92%."**
 
 But:
 
-\*\*"Here's what you spent. Here's what produced real opportunities. Here's what wasted money. And here's what we're changing next."\*\*
+**"Here's what you spent. Here's what produced real opportunities. Here's what wasted money. And here's what we're changing next."**
 
 If you own a home-service business and you've never audited what Google Ads is actually counting as a lead, it's worth finding out.
 

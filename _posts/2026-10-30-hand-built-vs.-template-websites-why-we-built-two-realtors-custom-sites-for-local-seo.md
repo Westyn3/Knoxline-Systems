@@ -21,7 +21,7 @@ Technically, the agent now has a website.
 
 But there's a problem:
 
-\*\*Hundreds or thousands of other agents may have essentially the same one.\*\*
+**Hundreds or thousands of other agents may have essentially the same one.**
 
 When we built websites for North Georgia realtors Britney Javens and Karen Hilliard, we took a different approach.
 
@@ -41,13 +41,13 @@ How does the website connect to their Google presence and existing reputation?
 
 Then we built around those answers.
 
-The result was two fast, hand-built websites with dedicated local-market content, integrated property search, stronger connections to their Google Business Profiles and reviews, and \*\*100/100 Google Lighthouse SEO scores\*\* at testing.
+The result was two fast, hand-built websites with dedicated local-market content, integrated property search, stronger connections to their Google Business Profiles and reviews, and **100/100 Google Lighthouse SEO scores** at testing.
 
 But the score isn't the important part.
 
 The important part is what the website is designed to do:
 
-\*\*Help the right customer find the business, trust the business, and contact the business.\*\*
+**Help the right customer find the business, trust the business, and contact the business.**
 
 ## What Does "Hand-Built Website" Actually Mean?
 
@@ -85,13 +85,13 @@ A beautiful homepage isn't automatically an SEO strategy.
 
 A website still needs to communicate:
 
-\*\*What does this business do?\*\*
+**What does this business do?**
 
-\*\*Where does it operate?\*\*
+**Where does it operate?**
 
-\*\*Why should someone trust it?\*\*
+**Why should someone trust it?**
 
-\*\*What should a visitor do next?\*\*
+**What should a visitor do next?**
 
 If every important answer is buried inside a generic five-page site, the business may be leaving a lot of opportunity on the table.
 
@@ -101,21 +101,21 @@ Real estate is extremely local.
 
 Someone doesn't usually search:
 
-\*\*"house."\*\*
+**"house."**
 
 They search for a place.
 
 They may search for:
 
-\*\*homes for sale in Alpharetta, Georgia\*\*
+**homes for sale in Alpharetta, Georgia**
 
-\*\*homes for sale in Cumming, Georgia\*\*
+**homes for sale in Cumming, Georgia**
 
-\*\*Lake Lanier waterfront homes\*\*
+**Lake Lanier waterfront homes**
 
-\*\*Blue Ridge cabins for sale\*\*
+**Blue Ridge cabins for sale**
 
-\*\*North Atlanta real estate\*\*
+**North Atlanta real estate**
 
 Those searches contain intent.
 
@@ -129,7 +129,7 @@ That's one of the first things we wanted to address with Britney and Karen's web
 
 Britney Javens serves buyers and sellers across North Atlanta.
 
-Instead of giving her a single generic page saying she serves "North Atlanta and surrounding areas," we built the website with dedicated content around \*\*eleven individual cities she serves\*\*.
+Instead of giving her a single generic page saying she serves "North Atlanta and surrounding areas," we built the website with dedicated content around **eleven individual cities she serves**.
 
 That matters for users.
 
@@ -141,7 +141,7 @@ Each community becomes part of the site's structure.
 
 Instead of saying:
 
-\*\*"Britney sells real estate in North Atlanta."\*\*
+**"Britney sells real estate in North Atlanta."**
 
 the website can actually demonstrate what that means.
 
@@ -183,11 +183,11 @@ Karen's positioning and markets create different opportunities.
 
 Her website can emphasize areas and property types such as:
 
-\*\*Lake Lanier waterfront real estate\*\*
+**Lake Lanier waterfront real estate**
 
 and:
 
-\*\*Blue Ridge cabins and mountain properties.\*\*
+**Blue Ridge cabins and mountain properties.**
 
 Those are meaningfully different searches.
 
@@ -197,7 +197,7 @@ The website should reflect that.
 
 That's one of the biggest advantages of custom development:
 
-\*\*The website can follow the business strategy instead of forcing the business into the website's template.\*\*
+**The website can follow the business strategy instead of forcing the business into the website's template.**
 
 ## Local SEO Is About More Than Adding City Names
 
@@ -253,19 +253,19 @@ They tap a result.
 
 The website has a few seconds to establish:
 
-\*\*Yes, you're in the right place.\*\*
+**Yes, you're in the right place.**
 
 A slow or frustrating experience creates unnecessary friction before the business ever gets the opportunity to talk to the prospect.
 
 ## What Does a 100/100 SEO Score Actually Mean?
 
-Both realtor builds achieved \*\*100/100 scores on Google's Lighthouse SEO audit\*\* during testing.
+Both realtor builds achieved **100/100 scores on Google's Lighthouse SEO audit** during testing.
 
 That's something we're proud of.
 
 But it's important to explain what that number does—and doesn't—mean.
 
-It does \*\*not\*\* mean Google gives the website a secret 100/100 ranking score.
+It does **not** mean Google gives the website a secret 100/100 ranking score.
 
 And it does not guarantee the site will rank first for every target search.
 
@@ -293,7 +293,7 @@ A site still needs:
 
 We want both.
 
-\*\*Strong technical foundations and useful content.\*\*
+**Strong technical foundations and useful content.**
 
 ## We Found a Much Bigger Problem Than an SEO Score
 
@@ -313,7 +313,7 @@ But when we traced where the visitor was actually going, we found that the searc
 
 In practical terms:
 
-\*\*A website button intended to help generate leads was capable of sending the opportunity away from the realtor.\*\*
+**A website button intended to help generate leads was capable of sending the opportunity away from the realtor.**
 
 That's a much bigger problem than losing a few points on a website audit.
 
@@ -329,17 +329,17 @@ A website isn't successful simply because all the buttons technically work.
 
 We want to know:
 
-\*\*Where does the button go?\*\*
+**Where does the button go?**
 
-\*\*Who owns that experience?\*\*
+**Who owns that experience?**
 
-\*\*Who receives the lead?\*\*
+**Who receives the lead?**
 
-\*\*Can the prospect easily return?\*\*
+**Can the prospect easily return?**
 
-\*\*Is the realtor's branding maintained?\*\*
+**Is the realtor's branding maintained?**
 
-\*\*What happens after the visitor searches for a property?\*\*
+**What happens after the visitor searches for a property?**
 
 The same principle applies outside real estate.
 
@@ -371,11 +371,11 @@ For Britney and Karen, the listing-search experience needed to connect prospects
 
 That's the difference between:
 
-\*\*having an MLS button\*\*
+**having an MLS button**
 
 and:
 
-\*\*thinking through the lead journey.\*\*
+**thinking through the lead journey.**
 
 Technology should support the agent who paid for the website.
 
@@ -393,7 +393,7 @@ Another person may receive the agent's name from a friend and search Google befo
 
 In all three situations, the prospect is trying to answer:
 
-\*\*Is this person established and trustworthy?\*\*
+**Is this person established and trustworthy?**
 
 That's why we worked on the Google presence alongside the websites.
 
@@ -407,7 +407,7 @@ They should make sense together.
 
 Karen already had something extremely valuable:
 
-\*\*99 five-star Google reviews.\*\*
+**99 five-star Google reviews.**
 
 That's not simply a marketing statistic.
 
@@ -469,7 +469,7 @@ For a realtor or other local professional, branded search is extremely important
 
 Someone hears:
 
-\*\*"Call Karen Hilliard."\*\*
+**"Call Karen Hilliard."**
 
 What's the next thing they may do?
 
@@ -497,11 +497,11 @@ A weak or confusing one creates doubt.
 
 That's why we care about how the business appears when someone searches both:
 
-\*\*the person's name\*\*
+**the person's name**
 
 and:
 
-\*\*the market or service.\*\*
+**the market or service.**
 
 ## A Referral Isn't Finished Until the Customer Contacts You
 
@@ -537,7 +537,7 @@ Bad custom websites exist.
 
 Excellent template websites exist.
 
-The real advantage of custom development is \*\*control\*\*.
+The real advantage of custom development is **control**.
 
 We can build around:
 
@@ -567,13 +567,13 @@ That's the value.
 
 Whether you're a realtor, roofer, septic company, HVAC contractor, consultant, or another local professional, your website should answer a few basic questions quickly.
 
-\*\*What do you do?\*\*
+**What do you do?**
 
-\*\*Where do you do it?\*\*
+**Where do you do it?**
 
-\*\*Why should I trust you?\*\*
+**Why should I trust you?**
 
-\*\*What should I do next?\*\*
+**What should I do next?**
 
 Then, beneath those fundamentals, the site should support the way your customers actually search.
 
@@ -597,13 +597,13 @@ Every important page should have a reason to exist.
 
 We want to know:
 
-\*\*What search intent does this page serve?\*\*
+**What search intent does this page serve?**
 
-\*\*What question does it answer?\*\*
+**What question does it answer?**
 
-\*\*What customer is it for?\*\*
+**What customer is it for?**
 
-\*\*What should the visitor do next?\*\*
+**What should the visitor do next?**
 
 If we can't answer those questions, the page probably needs more thought.
 
@@ -653,7 +653,7 @@ The objective isn't merely traffic.
 
 It's creating a path from:
 
-\*\*search → website → trust → action.\*\*
+**search → website → trust → action.**
 
 ## The Same Strategy Works Beyond Real Estate
 
@@ -669,7 +669,7 @@ An HVAC company needs visibility when someone's AC stops working.
 
 An attorney, accountant, consultant, or other local professional has the same fundamental challenge:
 
-\*\*When someone needs what you do, can they find you—and when they find you, do they trust what they see?\*\*
+**When someone needs what you do, can they find you—and when they find you, do they trust what they see?**
 
 That's the job of the digital presence.
 
@@ -681,23 +681,23 @@ We built around the individual businesses.
 
 That included:
 
-\*\*Fast, hand-built websites.\*\*
+**Fast, hand-built websites.**
 
-\*\*Dedicated pages for real communities and markets.\*\*
+**Dedicated pages for real communities and markets.**
 
-\*\*Content aligned with what buyers in those markets actually search for.\*\*
+**Content aligned with what buyers in those markets actually search for.**
 
-\*\*MLS search paths connected to the realtor's own ecosystem.\*\*
+**MLS search paths connected to the realtor's own ecosystem.**
 
-\*\*Google Business Profile improvements.\*\*
+**Google Business Profile improvements.**
 
-\*\*Visible reputation and review signals.\*\*
+**Visible reputation and review signals.**
 
-\*\*Strong technical SEO foundations.\*\*
+**Strong technical SEO foundations.**
 
 And:
 
-\*\*A clear path from discovery to contact.\*\*
+**A clear path from discovery to contact.**
 
 The websites aren't identical because the businesses aren't identical.
 
@@ -733,27 +733,27 @@ The business isn't trapped inside a design simply because that's what its indust
 
 Don't evaluate your website by asking:
 
-\*\*"Do I like how it looks?"\*\*
+**"Do I like how it looks?"**
 
 That's important, but it's only one question.
 
 Also ask:
 
-\*\*Does it load quickly on my phone?\*\*
+**Does it load quickly on my phone?**
 
-\*\*Can a stranger immediately tell what I do?\*\*
+**Can a stranger immediately tell what I do?**
 
-\*\*Is my service area clear?\*\*
+**Is my service area clear?**
 
-\*\*Do my most important services or markets have useful pages?\*\*
+**Do my most important services or markets have useful pages?**
 
-\*\*Can visitors see evidence that customers trust me?\*\*
+**Can visitors see evidence that customers trust me?**
 
-\*\*Does every important button go where I think it goes?\*\*
+**Does every important button go where I think it goes?**
 
-\*\*Do leads come to me?\*\*
+**Do leads come to me?**
 
-\*\*Can Google understand the structure of the site?\*\*
+**Can Google understand the structure of the site?**
 
 Those questions tell you much more about the value of the website than whether you like the homepage animation.
 
@@ -797,7 +797,7 @@ It should be part of the way the business finds, converts, and understands custo
 
 ## The Goal Isn't a 100/100 Score
 
-We love seeing a \*\*100/100 Lighthouse SEO score\*\*.
+We love seeing a **100/100 Lighthouse SEO score**.
 
 It's a great technical benchmark.
 
@@ -807,23 +807,23 @@ The finish line is much closer to this:
 
 Someone searches for your name.
 
-\*\*You show up.\*\*
+**You show up.**
 
 Someone searches for what you do in the market you serve.
 
-\*\*You have a chance to be discovered.\*\*
+**You have a chance to be discovered.**
 
 They visit your website.
 
-\*\*You look established.\*\*
+**You look established.**
 
 They check your reviews.
 
-\*\*They trust you.\*\*
+**They trust you.**
 
 They click the button.
 
-\*\*The lead stays yours.\*\*
+**The lead stays yours.**
 
 That's what the website is supposed to accomplish.
 
