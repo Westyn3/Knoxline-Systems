@@ -25,3 +25,12 @@ document.addEventListener('click', function(e){
     gtag('event', 'email_click', { link_url: href, page_path: location.pathname });
   }
 });
+
+// Track contact form submissions as leads
+document.addEventListener('submit', function(e){
+  var f = e.target;
+  if(!f || typeof gtag !== 'function') return;
+  if((f.getAttribute('action') || '').indexOf('formspree.io') !== -1){
+    gtag('event', 'generate_lead', { form: 'contact', page_path: location.pathname });
+  }
+});
