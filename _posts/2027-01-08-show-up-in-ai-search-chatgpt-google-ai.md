@@ -4,7 +4,7 @@ seo_title: "How Local Businesses Show Up in ChatGPT and AI Search"
 seo_description: "How local home-service businesses can show up in ChatGPT, Google AI Overviews and other AI search: consistent info, schema, GBP, reviews and clear pages."
 description: "More homeowners are asking AI tools who to call. Nobody controls what those tools say, but there are practical things a local business can do to be easy to find, easy to understand and easy to recommend."
 topic: "AI Search · Local SEO · Structured Data"
-date: 2027-01-08T08:00:00-05:00
+date: 2027-01-08T06:00:00-05:00
 slug: show-up-in-ai-search-chatgpt-google-ai
 image: ''
 ---

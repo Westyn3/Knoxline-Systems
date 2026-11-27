@@ -4,7 +4,7 @@ seo_title: "Service Area Pages That Rank Without Doorway Page Risk"
 seo_description: "How to build service area pages that help local SEO for home-service businesses: real local content, real projects, and no copy-paste city pages."
 description: "City and service area pages can help a contractor show up in the towns they actually serve, or they can look like spam. Here is how to build area pages that are genuinely useful, with examples from hand-built sites we've made."
 topic: "Local SEO · Service Area Pages · Website Design"
-date: 2027-01-22T08:00:00-05:00
+date: 2027-01-22T06:00:00-05:00
 slug: service-area-pages-that-rank
 image: ''
 ---

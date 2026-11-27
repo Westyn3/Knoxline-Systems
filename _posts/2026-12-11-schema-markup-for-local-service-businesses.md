@@ -4,7 +4,7 @@ seo_title: "Schema Markup for Local Service Businesses, in Plain English"
 seo_description: "Schema markup for local service businesses in plain English: LocalBusiness, areaServed, hours, sameAs, breadcrumbs, FAQ and Article, plus how to test it."
 description: "Schema markup sounds technical, but the idea is simple: it describes your business to Google in a format machines can read. Here is what home-service businesses should include, how to test it, and what we set up on our own site, which passed with zero errors."
 topic: "Structured Data · Local SEO · Website Design"
-date: 2026-12-11T08:00:00-05:00
+date: 2026-12-11T06:00:00-05:00
 slug: schema-markup-for-local-service-businesses
 image: ''
 ---

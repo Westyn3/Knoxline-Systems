@@ -4,7 +4,7 @@ seo_title: "What Our Search Console Data Taught Us About Local SEO"
 seo_description: "Real Google Search Console numbers from our own site: impressions, average position, clicks and CTR explained in plain English for local businesses."
 description: "We made a round of SEO changes to our own website in October 2026 and watched Google Search Console closely. Here are the real numbers, what they meant, what they didn't, and how a home-service owner can read their own Search Console data."
 topic: "Local SEO · Google Search Console · Case Study"
-date: 2027-02-05T08:00:00-05:00
+date: 2027-02-05T06:00:00-05:00
 slug: what-our-search-console-taught-us
 image: ''
 ---

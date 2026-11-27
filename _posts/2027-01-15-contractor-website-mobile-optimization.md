@@ -4,7 +4,7 @@ seo_title: "Contractor Website Mobile Optimization: Common Mistakes"
 seo_description: "Contractor website mobile optimization explained: tap-to-call, thumb-friendly buttons, fast loading, readable text, simple forms, no sideways scroll."
 description: "Most homeowners looking for a contractor are on their phone, often in a hurry. Here is what most contractor websites get wrong on mobile, and how to fix each problem so more of those visitors turn into calls."
 topic: "Home-Service Websites · Mobile Optimization · Website Speed"
-date: 2027-01-15T08:00:00-05:00
+date: 2027-01-15T06:00:00-05:00
 slug: contractor-website-mobile-optimization
 image: ''
 ---

@@ -4,7 +4,7 @@ seo_title: "Website Speed for Contractors: Why Slow Sites Lose Calls"
 seo_description: "Website speed for contractors in plain English: Core Web Vitals, PageSpeed scores, and fixing the images, fonts, scripts and hosting that slow sites."
 description: "A homeowner with a roof leak isn't going to wait for a slow website to load. Here is what website speed means for contractors, how Google measures it, what usually causes the problem, and what we found and fixed on our own site."
 topic: "Website Design · Site Speed · Local SEO"
-date: 2027-02-19T08:00:00-05:00
+date: 2027-02-19T06:00:00-05:00
 slug: website-speed-for-contractors
 image: ''
 ---
