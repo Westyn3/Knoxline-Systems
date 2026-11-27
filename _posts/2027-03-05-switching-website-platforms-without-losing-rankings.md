@@ -4,7 +4,7 @@ seo_title: "Move Off Wix or Squarespace Without Losing Rankings"
 seo_description: "A checklist for switching website platforms without losing Google rankings: URL inventory, 301 redirects, metadata, sitemap and Search Console."
 description: "Switching from Wix or Squarespace to a faster site can help a home-service business, but a careless move can erase years of search visibility. Here is the migration checklist we use to protect your rankings."
 topic: "Website Migration · Local SEO · Website Design"
-date: 2027-03-05T08:00:00-05:00
+date: 2027-03-05T06:00:00-05:00
 slug: switching-website-platforms-without-losing-rankings
 image: ''
 ---

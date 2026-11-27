@@ -4,7 +4,7 @@ seo_title: "Spring Website and Google Business Profile Checklist"
 seo_description: "A spring checklist for roofing, HVAC, septic and landscaping: Google Business Profile updates, seasonal pages, reviews, speed, call tracking and ads."
 description: "Spring is when the phones start ringing for roofers, HVAC companies, septic contractors and landscapers. Here is a practical checklist to get your website and Google Business Profile ready before the rush, not in the middle of it."
 topic: "Google Business Profile · Website Design · Seasonal Marketing"
-date: 2027-03-26T08:00:00-04:00
+date: 2027-03-26T06:00:00-04:00
 slug: spring-busy-season-website-gbp-checklist
 image: ''
 ---

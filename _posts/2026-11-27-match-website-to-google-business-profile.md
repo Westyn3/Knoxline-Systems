@@ -4,7 +4,7 @@ seo_title: "Match Your Website to Your Google Business Profile"
 seo_description: "Why your website should match your Google Business Profile exactly: name, phone, hours, categories, service areas and schema. Our own site as the example."
 description: "Your website and your Google Business Profile should tell the exact same story. Here is what to match, line by line, and how we did it on our own site in October 2026, from legal name and hours to service areas, categories and structured data."
 topic: "Google Business Profile · Local SEO · Website Design"
-date: 2026-11-27T08:00:00-05:00
+date: 2026-11-27T06:00:00-05:00
 slug: match-website-to-google-business-profile
 image: ''
 ---

@@ -4,7 +4,7 @@ seo_title: "Wix, Squarespace, WordPress or Hand-Built for Contractors?"
 seo_description: "An honest guide to Wix, Squarespace, Google Sites, WordPress and hand-built websites for home-service businesses: pros, cons and who should pick what."
 description: "Every website platform has a place. Here is an honest look at Wix, Squarespace, Google Sites, WordPress and hand-built sites for roofers, septic companies, HVAC and other home-service businesses, and how to pick the right one for where your business is today."
 topic: "Website Design · Local SEO · Home-Service Websites"
-date: 2027-02-26T08:00:00-05:00
+date: 2027-02-26T06:00:00-05:00
 slug: wix-squarespace-wordpress-or-hand-built
 image: ''
 ---

@@ -4,7 +4,7 @@ seo_title: "Year-End Website Checklist for Home-Service Businesses"
 seo_description: "A year-end website checklist for home-service businesses: holiday hours, GBP photos, review replies, broken links, forms, speed and Search Console."
 description: "The last week of the year is slow for a lot of contractors. That makes it the right time to spend a couple of hours making sure your website and Google Business Profile are ready for the year ahead. Here is the checklist we use."
 topic: "Home-Service Websites · Google Business Profile · Local SEO"
-date: 2026-12-25T08:00:00-05:00
+date: 2026-12-25T06:00:00-05:00
 slug: year-end-website-checklist-home-service
 image: ''
 ---

@@ -4,7 +4,7 @@ seo_title: "Google Maps Marketing: How the Map Pack Works"
 seo_description: "Google Maps marketing for Knoxville home-service businesses: how relevance, distance and prominence work, and how to climb the map pack."
 description: "The map pack is often the first thing a homeowner sees when they search for a roofer, plumber or septic company. Here is how Google decides who shows up there, in plain English, and what a home-service business can actually do about it."
 topic: "Google Business Profile · Google Maps · Local SEO"
-date: 2027-02-12T08:00:00-05:00
+date: 2027-02-12T06:00:00-05:00
 slug: google-maps-marketing-map-pack
 image: ''
 ---

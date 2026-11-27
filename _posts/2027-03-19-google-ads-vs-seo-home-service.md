@@ -4,7 +4,7 @@ seo_title: "Google Ads vs. SEO for Home-Service Companies"
 seo_description: "Google Ads vs. SEO for home-service companies: how each works, what each costs, when to use both, and why Knoxville contractors need a foundation first."
 description: "Google Ads can make the phone ring this week. SEO builds visibility that keeps working for years. Here is how a roofer, septic company, HVAC shop or plumber should think about each one, and why the foundation comes first."
 topic: "Google Ads · Local SEO · Home-Service Marketing"
-date: 2027-03-19T08:00:00-04:00
+date: 2027-03-19T06:00:00-04:00
 slug: google-ads-vs-seo-home-service
 image: ''
 ---

@@ -4,7 +4,7 @@ seo_title: "Google Review System for Home-Service Businesses"
 seo_description: "How home-service companies build a Google review management system: ask timing, direct links, QR cards, follow-up texts and replies, inside Google's rules."
 description: "Most contractors know reviews matter. Few have a process that asks every happy customer, every time. Here is how to build a Google review system that runs in the background and stays inside Google's rules."
 topic: "Google Business Profile · Reviews · Local SEO"
-date: 2026-12-18T08:00:00-05:00
+date: 2026-12-18T06:00:00-05:00
 slug: google-review-system-for-home-service-businesses
 image: ''
 ---

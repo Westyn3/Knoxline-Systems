@@ -4,7 +4,7 @@ seo_title: "2027 Local SEO Plan for Knoxville Home-Service Companies"
 seo_description: "A month-by-month 2027 local SEO plan for home-service companies in Knoxville, TN: website, Google Business Profile, reviews, area pages and tracking."
 description: "Local SEO works best as a steady routine, not a one-time project. Here is a month-by-month plan for Knoxville and East Tennessee home-service companies that want more calls from Google in 2027."
 topic: "Local SEO · Google Business Profile · Home-Service Websites"
-date: 2027-01-01T08:00:00-05:00
+date: 2027-01-01T06:00:00-05:00
 slug: local-seo-plan-home-service-companies-knoxville
 image: ''
 ---
